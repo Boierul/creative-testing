@@ -99,7 +99,6 @@ function App() {
         document.addEventListener('touchend', handleMouseUp)
     }, []);
 
-
     return (
         <>
             <div className="carousel">
