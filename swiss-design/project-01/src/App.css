@@ -1,0 +1,163 @@
+/*---- Scroll the window down! ---*/
+
+body {
+    background: black;
+    color: white;
+    font-weight: bold;
+    width: 99%;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(20, 5%);
+    grid-template-rows: repeat(4, 25%);
+}
+
+.title {
+    grid-column: 1 / span 3;
+    grid-row: 2 / span 3;
+}
+
+.sub {
+    grid-column-start: 2;
+    font-family: Bahnschrift, sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.dancer {
+    grid-column: 5 / span 7;
+    grid-row: 1 / span 4;
+    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/tumblr_nhznb4Jm2H1s238efo1_500.gif)
+    no-repeat -100px -350px fixed;
+    background-size: cover;
+}
+
+h1 {
+    writing-mode: vertical-rl;
+    font-size: 160px;
+    float: left;
+    margin-left: -20px;
+    letter-spacing: -0.1em;
+}
+
+.lettering {
+    grid-column: 12 / span 10;
+    grid-row: 1 / span 4;
+}
+
+.sub2 {
+    grid-column: 14 / span 3;
+    grid-row: 4 / span 1;
+    margin-top: -200px;
+    text-align: right;
+    font-family: Bahnschrift, sans-serif;
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.border {
+    grid-column: 12 / span 1;
+    width: 10px;
+    grid-row: 1 / span 4;
+}
+
+.cls-1 {
+    fill: none;
+    stroke: #fff;
+    stroke-miterlimit: 10;
+    stroke-width: 33px;
+}
+
+@media screen and (max-width: 800px) and (min-width: 500px) {
+    .sub2 {
+        grid-column: 17 / span 3;
+        grid-row: 1 / span 1;
+        margin-top: 0;
+    }
+
+    .border {
+        grid-column: 7 / span 1;
+        grid-row: 1 / span 4;
+    }
+
+    .dancer {
+        grid-column: 7 / span 13;
+        grid-row: 1 / span 4;
+    }
+
+    .lettering {
+        grid-column: 7 / span 10;
+        grid-row: 3 / span 4;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .sub {
+        grid-column-start: 2;
+        grid-row-start: 2;
+        margin-left: 6px;
+    }
+
+    .sub2 {
+        grid-column: 10 / span 10;
+        grid-row: 2 / span 1;
+    }
+
+    h1 {
+        writing-mode: unset;
+        font-size: 80px;
+        float: none;
+        margin-left: 0;
+        letter-spacing: -0.1em;
+    }
+
+    .title {
+        grid-column: 1 / span 13;
+        grid-row: 1 / 1;
+    }
+
+    .border {
+        grid-column: 11 / span 1;
+        grid-row: 2 / span 2;
+    }
+
+    .dancer {
+        grid-column: 11 / span 10;
+        grid-row: 2 / span 2;
+        background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/tumblr_nhznb4Jm2H1s238efo1_500.gif)
+        no-repeat 50px 60px fixed !important;
+    }
+
+    .lettering {
+        grid-column: 1 / span 10;
+        grid-row: 3 / span 4;
+    }
+}
+
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 20px;
+    background: transparent;
+    -webkit-overflow-scrolling: auto !important;
+}
+
+::-webkit-scrollbar:hover {
+    background: transparent;
+}
+
+/* Scrollbar Track */
+::-webkit-scrollbar-track {
+    background: rgba(114, 114, 114, 0.56);
+}
+
+/* Scrollbar Thumb */
+::-webkit-scrollbar-thumb {
+    background: rgba(114, 114, 114, 0.56);
+}
+
+/* Hover */
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(114, 114, 114, 0.56);
+}
