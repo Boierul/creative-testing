@@ -1,0 +1,3059 @@
+.X00 {
+    background-color: black;
+}
+.XFD {
+    background-color: #cccccc;
+}
+.XFE {
+    background-color: #00acee;
+}
+.XFF {
+    background-color: transparent;
+}
+.X01 {
+    background-color: #281b0a;
+}
+.X02 {
+    background-color: #2c1e0e;
+}
+.X03 {
+    background-color: #865334;
+}
+.X04 {
+    background-color: #302872;
+}
+.X05 {
+    background-color: #3f3f3f;
+}
+.X06 {
+    background-color: #26180b;
+}
+.X07 {
+    background-color: #281a0d;
+}
+.X08 {
+    background-color: #26215b;
+}
+.X09 {
+    background-color: #261a0a;
+}
+.X0A {
+    background-color: #2d1d0e;
+}
+.X0B {
+    background-color: #9a6344;
+}
+.X0C {
+    background-color: #271b0b;
+}
+.X0D {
+    background-color: #291c0c;
+}
+.X0E {
+    background-color: #261a0c;
+}
+.X0F {
+    background-color: #62432f;
+}
+.X10 {
+    background-color: #2b1e0e;
+}
+.X11 {
+    background-color: #231709;
+}
+.X12 {
+    background-color: #2c1e11;
+}
+.X13 {
+    background-color: #9d6a4f;
+}
+.X14 {
+    background-color: #9c6748;
+}
+.X15 {
+    background-color: #5649cc;
+}
+.X16 {
+    background-color: #463aa5;
+}
+.X17 {
+    background-color: #6b6b6b;
+}
+.X18 {
+    background-color: #322310;
+}
+.X19 {
+    background-color: #281b0b;
+}
+.X1A {
+    background-color: #87583a;
+}
+.X1B {
+    background-color: #845231;
+}
+.X1C {
+    background-color: #965f41;
+}
+.X1D {
+    background-color: #3a3189;
+}
+.X1E {
+    background-color: #2d2010;
+}
+.X1F {
+    background-color: #2b1e0d;
+}
+.X20 {
+    background-color: #24180a;
+}
+.X21 {
+    background-color: #9c6345;
+}
+.X22 {
+    background-color: #8a593b;
+}
+.X23 {
+    background-color: #332411;
+}
+.X24 {
+    background-color: #2f2211;
+}
+.X25 {
+    background-color: #3a2814;
+}
+.X26 {
+    background-color: #885a39;
+}
+.X27 {
+    background-color: #75472f;
+}
+.X28 {
+    background-color: #74482f;
+}
+.X29 {
+    background-color: #2a1d0d;
+}
+.X2A {
+    background-color: #241808;
+}
+.X2B {
+    background-color: #2f200d;
+}
+.X2C {
+    background-color: #aa7d66;
+}
+.X2D {
+    background-color: #b4846d;
+}
+.X2E {
+    background-color: #9c6346;
+}
+.X2F {
+    background-color: #905e43;
+}
+.X30 {
+    background-color: #6f452c;
+}
+.X31 {
+    background-color: #282828;
+}
+.X32 {
+    background-color: #2f1f0f;
+}
+.X33 {
+    background-color: #b6896c;
+}
+.X34 {
+    background-color: #ffffff;
+}
+.X35 {
+    background-color: #b37b62;
+}
+.X36 {
+    background-color: #965f40;
+}
+.X37 {
+    background-color: #6d432a;
+}
+.X38 {
+    background-color: #bd8e72;
+}
+.X39 {
+    background-color: #523d89;
+}
+.X3A {
+    background-color: #b78272;
+}
+.X3B {
+    background-color: #774235;
+}
+.X3C {
+    background-color: #815339;
+}
+.X3D {
+    background-color: #281c0b;
+}
+.X3E {
+    background-color: #c69680;
+}
+.X3F {
+    background-color: #ad806d;
+}
+.X40 {
+    background-color: #b57b67;
+}
+.X41 {
+    background-color: #6a4030;
+}
+.X42 {
+    background-color: #422a12;
+}
+.X43 {
+    background-color: #bd8b72;
+}
+.X44 {
+    background-color: #9c725c;
+}
+.X45 {
+    background-color: #bb8972;
+}
+.X46 {
+    background-color: #7a4e33;
+}
+.X47 {
+    background-color: #1f100b;
+}
+.X48 {
+    background-color: #3f2a15;
+}
+.X49 {
+    background-color: #bd8e74;
+}
+.X4A {
+    background-color: #be886c;
+}
+.X4B {
+    background-color: #83553b;
+}
+.X4C {
+    background-color: #ac765a;
+}
+.X4D {
+    background-color: #9c694c;
+}
+.X4E {
+    background-color: #a26a47;
+}
+.X4F {
+    background-color: #8f5e3e;
+}
+.X50 {
+    background-color: #342512;
+}
+.X51 {
+    background-color: #805334;
+}
+.X52 {
+    background-color: #007f7f;
+}
+.X53 {
+    background-color: #006868;
+}
+.X54 {
+    background-color: #005b5b;
+}
+.X55 {
+    background-color: #232323;
+}
+.X56 {
+    background-color: #9f6849;
+}
+.X57 {
+    background-color: #9a644a;
+}
+.X58 {
+    background-color: #00cccc;
+}
+.X59 {
+    background-color: #009999;
+}
+.X5A {
+    background-color: #00a8a8;
+}
+.X5B {
+    background-color: #00afaf;
+}
+.X5C {
+    background-color: #009e9e;
+}
+.X5D {
+    background-color: #522826;
+}
+.X5E {
+    background-color: #006060;
+}
+.X5F {
+    background-color: #87553b;
+}
+.X60 {
+    background-color: #966f5b;
+}
+.X61 {
+    background-color: #513125;
+}
+.X62 {
+    background-color: #e68583;
+}
+.X63 {
+    background-color: #e67973;
+}
+.X64 {
+    background-color: #c6615a;
+}
+.X65 {
+    background-color: #e6918b;
+}
+.X66 {
+    background-color: #e4686a;
+}
+.X67 {
+    background-color: #f19e98;
+}
+.X68 {
+    background-color: #894746;
+}
+.X69 {
+    background-color: #ff9392;
+}
+.X6A {
+    background-color: #eea5a4;
+}
+.X6B {
+    background-color: #fbbebe;
+}
+.X6C {
+    background-color: #be504d;
+}
+.X6D {
+    background-color: #4e772a;
+}
+.X6E {
+    background-color: #4f782b;
+}
+.X6F {
+    background-color: #56832f;
+}
+.X70 {
+    background-color: #3e5f22;
+}
+.X71 {
+    background-color: #56822e;
+}
+.X72 {
+    background-color: #517b2c;
+}
+.X73 {
+    background-color: #436524;
+}
+.X74 {
+    background-color: #4c7329;
+}
+.X75 {
+    background-color: #588630;
+}
+.X76 {
+    background-color: #50792b;
+}
+.X77 {
+    background-color: #527d2c;
+}
+.X78 {
+    background-color: #466a26;
+}
+.X79 {
+    background-color: #629635;
+}
+.X7A {
+    background-color: #446825;
+}
+.X7B {
+    background-color: #466b26;
+}
+.X7C {
+    background-color: #679d38;
+}
+.X7D {
+    background-color: #4a7128;
+}
+.X7E {
+    background-color: #4b7128;
+}
+.X7F {
+    background-color: #456926;
+}
+.X80 {
+    background-color: #507a2c;
+}
+.X81 {
+    background-color: #537d2d;
+}
+.X82 {
+    background-color: #476d27;
+}
+.X83 {
+    background-color: #456925;
+}
+.X84 {
+    background-color: #547f2d;
+}
+.X85 {
+    background-color: #5c8b32;
+}
+.X86 {
+    background-color: #598730;
+}
+.X87 {
+    background-color: #55812e;
+}
+.X88 {
+    background-color: #4f792b;
+}
+.X89 {
+    background-color: #4e762a;
+}
+.X8A {
+    background-color: #426424;
+}
+.X8B {
+    background-color: #496f28;
+}
+.X8C {
+    background-color: #406022;
+}
+.X8D {
+    background-color: #57852f;
+}
+.X8E {
+    background-color: #537e2d;
+}
+.X8F {
+    background-color: #609234;
+}
+.X90 {
+    background-color: #619334;
+}
+.X91 {
+    background-color: #476c26;
+}
+.X92 {
+    background-color: #669a37;
+}
+.X93 {
+    background-color: #486d27;
+}
+.X94 {
+    background-color: #588530;
+}
+.X95 {
+    background-color: #4c7429;
+}
+.X96 {
+    background-color: #4a7028;
+}
+.X97 {
+    background-color: #5a8931;
+}
+.X98 {
+    background-color: #4d752a;
+}
+.X99 {
+    background-color: #416323;
+}
+.X9A {
+    background-color: #496e27;
+}
+.X9B {
+    background-color: #5b8a31;
+}
+.X9C {
+    background-color: #5f9033;
+}
+.X9D {
+    background-color: #57842f;
+}
+.X9E {
+    background-color: #446725;
+}
+.X9F {
+    background-color: #5c8c32;
+}
+.XA0 {
+    background-color: #426423;
+}
+.XA1 {
+    background-color: #5b8931;
+}
+.XA2 {
+    background-color: #436624;
+}
+.XA3 {
+    background-color: #4b7229;
+}
+.XA4 {
+    background-color: #416223;
+}
+.XA5 {
+    background-color: #598830;
+}
+.XA6 {
+    background-color: #54802e;
+}
+.XA7 {
+    background-color: #3e5e21;
+}
+.XA8 {
+    background-color: #406123;
+}
+.XA9 {
+    background-color: #659a37;
+}
+.XAA {
+    background-color: #3f6022;
+}
+.XAB {
+    background-color: #3b5a20;
+}
+.XAC {
+    background-color: #74b44a;
+}
+.XAD {
+    background-color: #75b54b;
+}
+.XAE {
+    background-color: #8dbc5d;
+}
+.XAF {
+    background-color: #593d29;
+}
+.XB0 {
+    background-color: #966c4a;
+}
+.XB1 {
+    background-color: #79553a;
+}
+.XB2 {
+    background-color: #b9855c;
+}
+.XB3 {
+    background-color: #76b64c;
+}
+.XB4 {
+    background-color: #6cac42;
+}
+.XB5 {
+    background-color: #6c6c6c;
+}
+.XB6 {
+    background-color: #73b349;
+}
+.XB7 {
+    background-color: #8ab95a;
+}
+.XB8 {
+    background-color: #9ccb6c;
+}
+.XB9 {
+    background-color: #66a63c;
+}
+.XBA {
+    background-color: #81b051;
+}
+.XBB {
+    background-color: #64a43a;
+}
+.XBC {
+    background-color: #83b253;
+}
+.XBD {
+    background-color: #69a93f;
+}
+.XBE {
+    background-color: #71b147;
+}
+.XBF {
+    background-color: #878787;
+}
+.XC0 {
+    background-color: #745844;
+}
+.XC1 {
+    background-color: #6faf45;
+}
+.XC2 {
+    background-color: #5f9f35;
+}
+.XC3 {
+    background-color: #68a83e;
+}
+.XC4 {
+    background-color: #70b046;
+}
+.XC5 {
+    background-color: #62a238;
+}
+.XC6 {
+    background-color: #7ebe54;
+}
+.XC7 {
+    background-color: #93c263;
+}
+.XC8 {
+    background-color: #7fbf55;
+}
+.XC9 {
+    background-color: #6aaa40;
+}
+.XCA {
+    background-color: #90bf60;
+}
+.XCB {
+    background-color: #92c162;
+}
+.XCC {
+    background-color: #6dad43;
+}
+.XCD {
+    background-color: #67a73d;
+}
+.XCE {
+    background-color: #97c667;
+}
+.XCF {
+    background-color: #61a137;
+}
+.XD0 {
+    background-color: #57972d;
+}
+.XD1 {
+    background-color: #509026;
+}
+.XD2 {
+    background-color: #60a036;
+}
+.XD3 {
+    background-color: #6bab41;
+}
+.poly > div {
+    display: flex;
+    position: relative;
+}
+.poly > div > div {
+    height: 2vh;
+    position: relative;
+}
+@media screen and (orientation: portrait) {
+    .poly > div > div {
+        height: 2vw;
+    }
+}
+.r-1 {
+    width: 2vh;
+}
+@media screen and (orientation: portrait) {
+    .r-1 {
+        width: 2vw;
+    }
+}
+.r-2 {
+    width: 4vh;
+}
+@media screen and (orientation: portrait) {
+    .r-2 {
+        width: 4vw;
+    }
+}
+.r-3 {
+    width: 6vh;
+}
+@media screen and (orientation: portrait) {
+    .r-3 {
+        width: 6vw;
+    }
+}
+.r-4 {
+    width: 8vh;
+}
+@media screen and (orientation: portrait) {
+    .r-4 {
+        width: 8vw;
+    }
+}
+.r-5 {
+    width: 10vh;
+}
+@media screen and (orientation: portrait) {
+    .r-5 {
+        width: 10vw;
+    }
+}
+.r-6 {
+    width: 12vh;
+}
+@media screen and (orientation: portrait) {
+    .r-6 {
+        width: 12vw;
+    }
+}
+.r-7 {
+    width: 14vh;
+}
+@media screen and (orientation: portrait) {
+    .r-7 {
+        width: 14vw;
+    }
+}
+.r-8 {
+    width: 16vh;
+}
+@media screen and (orientation: portrait) {
+    .r-8 {
+        width: 16vw;
+    }
+}
+.r-9 {
+    width: 18vh;
+}
+@media screen and (orientation: portrait) {
+    .r-9 {
+        width: 18vw;
+    }
+}
+.r-10 {
+    width: 20vh;
+}
+@media screen and (orientation: portrait) {
+    .r-10 {
+        width: 20vw;
+    }
+}
+.control {
+    position: absolute;
+    height: 8vh;
+    width: 8vh;
+    margin: 0;
+    opacity: 0;
+    top: 4vh;
+    z-index: 2;
+}
+.control.control-pig {
+    left: 4vh;
+}
+.control.control-pig:checked ~ .stage .pig {
+    display: block;
+}
+.control.control-pig:checked ~ .icon-pig {
+    filter: none;
+}
+.control.control-steve {
+    left: 16vh;
+}
+.control.control-steve:checked ~ .stage .steve {
+    display: block;
+}
+.control.control-steve:checked ~ .icon-steve {
+    filter: none;
+}
+.control.control-terrain {
+    left: 28vh;
+}
+.control.control-terrain:checked ~ .stage .environment {
+    display: block;
+}
+.control.control-terrain:checked ~ .icon-terrain {
+    filter: none;
+}
+.icon {
+    top: 4vh;
+    z-index: 1;
+    filter: grayscale(100%);
+}
+.icon .r-1 {
+    width: 1vh;
+}
+.icon .r-2 {
+    width: 2vh;
+}
+.icon .r-3 {
+    width: 3vh;
+}
+.icon .r-4 {
+    width: 4vh;
+}
+.icon .r-5 {
+    width: 5vh;
+}
+.icon .r-6 {
+    width: 6vh;
+}
+.icon .r-7 {
+    width: 7vh;
+}
+.icon .r-8 {
+    width: 8vh;
+}
+.icon > div {
+    display: flex;
+    position: relative;
+}
+.icon > div > div {
+    height: 1vh;
+    position: relative;
+}
+.icon.icon-pig {
+    left: 4vh;
+}
+.icon.icon-steve {
+    left: 16vh;
+}
+.icon.icon-terrain {
+    left: 28vh;
+}
+@keyframes move {
+    50% {
+        offset-distance: 50%;
+        transform: rotateX(90deg) translateY(0);
+    }
+    55% {
+        offset-distance: 55%;
+        transform: rotateX(90deg) translateY(-200px);
+    }
+    60% {
+        offset-distance: 60%;
+        transform: rotateX(90deg) translateY(0);
+    }
+    100% {
+        offset-distance: 100%;
+    }
+}
+.reverse {
+    animation-direction: alternate-reverse !important;
+}
+.s__8__8__8 > div:nth-child(1) {
+    transform: rotateY(-90deg) translateZ(16vh) translateY(-8vh) translateX(0vh);
+}
+.s__8__8__8 > div:nth-child(2) {
+    transform: translateZ(8vh) translateX(-8vh) translateY(-8vh);
+}
+.s__8__8__8 > div:nth-child(3) {
+    transform: rotateY(90deg) translateZ(0vh) translateY(-8vh) translateX(0vh);
+}
+.s__8__8__8 > div:nth-child(4) {
+    transform: rotateY(180deg) translateZ(8vh) translateX(8vh) translateY(-8vh);
+}
+.s__8__8__8 > div:nth-child(5) {
+    transform: rotateX(90deg) translateZ(16vh) translateX(-8vh) translateY(0vh);
+}
+.s__8__8__8 > div:nth-child(6) {
+    transform: rotateX(90deg) translateZ(0vh) translateX(-8vh) translateY(0vh);
+}
+@media screen and (orientation: portrait) {
+    .s__8__8__8 > div:nth-child(1) {
+        transform: rotateY(-90deg) translateZ(16vw) translateY(-8vw) translateX(0vw);
+    }
+    .s__8__8__8 > div:nth-child(2) {
+        transform: translateZ(8vw) translateX(-8vw) translateY(-8vw);
+    }
+    .s__8__8__8 > div:nth-child(3) {
+        transform: rotateY(90deg) translateZ(0vw) translateY(-8vw) translateX(0vw);
+    }
+    .s__8__8__8 > div:nth-child(4) {
+        transform: rotateY(180deg) translateZ(8vw) translateX(8vw) translateY(-8vw);
+    }
+    .s__8__8__8 > div:nth-child(5) {
+        transform: rotateX(90deg) translateZ(16vw) translateX(-8vw) translateY(0vw);
+    }
+    .s__8__8__8 > div:nth-child(6) {
+        transform: rotateX(90deg) translateZ(0vw) translateX(-8vw) translateY(0vw);
+    }
+}
+.s__8__12__4 > div:nth-child(1) {
+    transform: rotateY(-90deg) translateZ(12vh) translateY(-12vh) translateX(0vh);
+}
+.s__8__12__4 > div:nth-child(2) {
+    transform: translateZ(4vh) translateX(-8vh) translateY(-12vh);
+}
+.s__8__12__4 > div:nth-child(3) {
+    transform: rotateY(90deg) translateZ(4vh) translateY(-12vh) translateX(0vh);
+}
+.s__8__12__4 > div:nth-child(4) {
+    transform: rotateY(180deg) translateZ(4vh) translateX(8vh) translateY(-12vh);
+}
+.s__8__12__4 > div:nth-child(5) {
+    transform: rotateX(90deg) translateZ(16vh) translateX(-8vh) translateY(0vh);
+}
+.s__8__12__4 > div:nth-child(6) {
+    transform: rotateX(90deg) translateZ(-8vh) translateX(-8vh) translateY(0vh);
+}
+@media screen and (orientation: portrait) {
+    .s__8__12__4 > div:nth-child(1) {
+        transform: rotateY(-90deg) translateZ(12vw) translateY(-12vw) translateX(0vw);
+    }
+    .s__8__12__4 > div:nth-child(2) {
+        transform: translateZ(4vw) translateX(-8vw) translateY(-12vw);
+    }
+    .s__8__12__4 > div:nth-child(3) {
+        transform: rotateY(90deg) translateZ(4vw) translateY(-12vw) translateX(0vw);
+    }
+    .s__8__12__4 > div:nth-child(4) {
+        transform: rotateY(180deg) translateZ(4vw) translateX(8vw) translateY(-12vw);
+    }
+    .s__8__12__4 > div:nth-child(5) {
+        transform: rotateX(90deg) translateZ(16vw) translateX(-8vw) translateY(0vw);
+    }
+    .s__8__12__4 > div:nth-child(6) {
+        transform: rotateX(90deg) translateZ(-8vw) translateX(-8vw) translateY(0vw);
+    }
+}
+.s__4__12__4 > div:nth-child(1) {
+    transform: rotateY(-90deg) translateZ(8vh) translateY(-12vh) translateX(0vh);
+}
+.s__4__12__4 > div:nth-child(2) {
+    transform: translateZ(4vh) translateX(-4vh) translateY(-12vh);
+}
+.s__4__12__4 > div:nth-child(3) {
+    transform: rotateY(90deg) translateZ(0vh) translateY(-12vh) translateX(0vh);
+}
+.s__4__12__4 > div:nth-child(4) {
+    transform: rotateY(180deg) translateZ(4vh) translateX(4vh) translateY(-12vh);
+}
+.s__4__12__4 > div:nth-child(5) {
+    transform: rotateX(90deg) translateZ(16vh) translateX(-4vh) translateY(0vh);
+}
+.s__4__12__4 > div:nth-child(6) {
+    transform: rotateX(90deg) translateZ(-8vh) translateX(-4vh) translateY(0vh);
+}
+@media screen and (orientation: portrait) {
+    .s__4__12__4 > div:nth-child(1) {
+        transform: rotateY(-90deg) translateZ(8vw) translateY(-12vw) translateX(0vw);
+    }
+    .s__4__12__4 > div:nth-child(2) {
+        transform: translateZ(4vw) translateX(-4vw) translateY(-12vw);
+    }
+    .s__4__12__4 > div:nth-child(3) {
+        transform: rotateY(90deg) translateZ(0vw) translateY(-12vw) translateX(0vw);
+    }
+    .s__4__12__4 > div:nth-child(4) {
+        transform: rotateY(180deg) translateZ(4vw) translateX(4vw) translateY(-12vw);
+    }
+    .s__4__12__4 > div:nth-child(5) {
+        transform: rotateX(90deg) translateZ(16vw) translateX(-4vw) translateY(0vw);
+    }
+    .s__4__12__4 > div:nth-child(6) {
+        transform: rotateX(90deg) translateZ(-8vw) translateX(-4vw) translateY(0vw);
+    }
+}
+.s__4__3__1 > div:nth-child(1) {
+    transform: rotateY(-90deg) translateZ(5vh) translateY(-2vh) translateX(1vh);
+}
+.s__4__3__1 > div:nth-child(2) {
+    transform: translateZ(2vh) translateX(-4vh) translateY(-2vh);
+}
+.s__4__3__1 > div:nth-child(3) {
+    transform: rotateY(90deg) translateZ(3vh) translateY(-2vh) translateX(-1vh);
+}
+.s__4__3__1 > div:nth-child(4) {
+    transform: rotateY(180deg) translateZ(1vh) translateX(4vh) translateY(-2vh);
+}
+.s__4__3__1 > div:nth-child(5) {
+    transform: rotateX(90deg) translateZ(3vh) translateX(-4vh) translateY(1vh);
+}
+.s__4__3__1 > div:nth-child(6) {
+    transform: rotateX(90deg) translateZ(-3vh) translateX(-4vh) translateY(1vh);
+}
+@media screen and (orientation: portrait) {
+    .s__4__3__1 > div:nth-child(1) {
+        transform: rotateY(-90deg) translateZ(5vw) translateY(-2vw) translateX(1vw);
+    }
+    .s__4__3__1 > div:nth-child(2) {
+        transform: translateZ(2vw) translateX(-4vw) translateY(-2vw);
+    }
+    .s__4__3__1 > div:nth-child(3) {
+        transform: rotateY(90deg) translateZ(3vw) translateY(-2vw) translateX(-1vw);
+    }
+    .s__4__3__1 > div:nth-child(4) {
+        transform: rotateY(180deg) translateZ(1vw) translateX(4vw) translateY(-2vw);
+    }
+    .s__4__3__1 > div:nth-child(5) {
+        transform: rotateX(90deg) translateZ(3vw) translateX(-4vw) translateY(1vw);
+    }
+    .s__4__3__1 > div:nth-child(6) {
+        transform: rotateX(90deg) translateZ(-3vw) translateX(-4vw) translateY(1vw);
+    }
+}
+.s__10__16__8 > div:nth-child(1) {
+    transform: rotateY(-90deg) translateZ(18vh) translateY(-16vh) translateX(0vh);
+}
+.s__10__16__8 > div:nth-child(2) {
+    transform: translateZ(8vh) translateX(-10vh) translateY(-16vh);
+}
+.s__10__16__8 > div:nth-child(3) {
+    transform: rotateY(90deg) translateZ(2vh) translateY(-16vh) translateX(0vh);
+}
+.s__10__16__8 > div:nth-child(4) {
+    transform: rotateY(180deg) translateZ(8vh) translateX(10vh) translateY(-16vh);
+}
+.s__10__16__8 > div:nth-child(5) {
+    transform: rotateX(90deg) translateZ(24vh) translateX(-10vh) translateY(0vh);
+}
+.s__10__16__8 > div:nth-child(6) {
+    transform: rotateX(90deg) translateZ(-8vh) translateX(-10vh) translateY(0vh);
+}
+@media screen and (orientation: portrait) {
+    .s__10__16__8 > div:nth-child(1) {
+        transform: rotateY(-90deg) translateZ(18vw) translateY(-16vw) translateX(0vw);
+    }
+    .s__10__16__8 > div:nth-child(2) {
+        transform: translateZ(8vw) translateX(-10vw) translateY(-16vw);
+    }
+    .s__10__16__8 > div:nth-child(3) {
+        transform: rotateY(90deg) translateZ(2vw) translateY(-16vw) translateX(0vw);
+    }
+    .s__10__16__8 > div:nth-child(4) {
+        transform: rotateY(180deg) translateZ(8vw) translateX(10vw) translateY(-16vw);
+    }
+    .s__10__16__8 > div:nth-child(5) {
+        transform: rotateX(90deg) translateZ(24vw) translateX(-10vw) translateY(0vw);
+    }
+    .s__10__16__8 > div:nth-child(6) {
+        transform: rotateX(90deg) translateZ(-8vw) translateX(-10vw) translateY(0vw);
+    }
+}
+.s__4__6__4 > div:nth-child(1) {
+    transform: rotateY(-90deg) translateZ(8vh) translateY(-6vh) translateX(0vh);
+}
+.s__4__6__4 > div:nth-child(2) {
+    transform: translateZ(4vh) translateX(-4vh) translateY(-6vh);
+}
+.s__4__6__4 > div:nth-child(3) {
+    transform: rotateY(90deg) translateZ(0vh) translateY(-6vh) translateX(0vh);
+}
+.s__4__6__4 > div:nth-child(4) {
+    transform: rotateY(180deg) translateZ(4vh) translateX(4vh) translateY(-6vh);
+}
+.s__4__6__4 > div:nth-child(5) {
+    transform: rotateX(90deg) translateZ(10vh) translateX(-4vh) translateY(0vh);
+}
+.s__4__6__4 > div:nth-child(6) {
+    transform: rotateX(90deg) translateZ(-2vh) translateX(-4vh) translateY(0vh);
+}
+@media screen and (orientation: portrait) {
+    .s__4__6__4 > div:nth-child(1) {
+        transform: rotateY(-90deg) translateZ(8vw) translateY(-6vw) translateX(0vw);
+    }
+    .s__4__6__4 > div:nth-child(2) {
+        transform: translateZ(4vw) translateX(-4vw) translateY(-6vw);
+    }
+    .s__4__6__4 > div:nth-child(3) {
+        transform: rotateY(90deg) translateZ(0vw) translateY(-6vw) translateX(0vw);
+    }
+    .s__4__6__4 > div:nth-child(4) {
+        transform: rotateY(180deg) translateZ(4vw) translateX(4vw) translateY(-6vw);
+    }
+    .s__4__6__4 > div:nth-child(5) {
+        transform: rotateX(90deg) translateZ(10vw) translateX(-4vw) translateY(0vw);
+    }
+    .s__4__6__4 > div:nth-child(6) {
+        transform: rotateX(90deg) translateZ(-2vw) translateX(-4vw) translateY(0vw);
+    }
+}
+.l__0__-10__0 {
+    transform: translateX(0vh) translateY(-20vh) translateZ(0vh);
+}
+@keyframes swing__0__-10__0 {
+    0% {
+        transform: translateX(0vh) translateY(-20vh) translateZ(0vh) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(0vh) translateY(-20vh) translateZ(0vh) rotateX(-45deg);
+    }
+}
+@keyframes swing__0__-10__0__p {
+    0% {
+        transform: translateX(0vw) translateY(-20vw) translateZ(0vw) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(0vw) translateY(-20vw) translateZ(0vw) rotateX(-45deg);
+    }
+}
+@keyframes bob__0__-10__0 {
+    0% {
+        transform: translateX(0vh) translateY(-20vh) translateZ(0vh) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(0vh) translateY(-20vh) translateZ(0vh) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(0vh) translateY(-20vh) translateZ(0vh) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(0vh) translateY(-20vh) translateZ(0vh) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(0vh) translateY(-20vh) translateZ(0vh) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(0vh) translateY(-20vh) translateZ(0vh) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(0vh) translateY(-20vh) translateZ(0vh) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(0vh) translateY(-20vh) translateZ(0vh) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(0vh) translateY(-20vh) translateZ(0vh) rotateX(0deg);
+    }
+}
+@keyframes bob__0__-10__0__p {
+    0% {
+        transform: translateX(0vw) translateY(-20vw) translateZ(0vw) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(0vw) translateY(-20vw) translateZ(0vw) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(0vw) translateY(-20vw) translateZ(0vw) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(0vw) translateY(-20vw) translateZ(0vw) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(0vw) translateY(-20vw) translateZ(0vw) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(0vw) translateY(-20vw) translateZ(0vw) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(0vw) translateY(-20vw) translateZ(0vw) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(0vw) translateY(-20vw) translateZ(0vw) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(0vw) translateY(-20vw) translateZ(0vw) rotateX(0deg);
+    }
+}
+.l__0__-10__0.swing {
+    animation: swing__0__-10__0 0.5s infinite linear alternate;
+}
+.l__0__-10__0.bob {
+    animation: bob__0__-10__0 2s infinite linear;
+}
+@media screen and (orientation: portrait) {
+    .l__0__-10__0 {
+        transform: translateX(0vw) translateY(-20vw) translateZ(0vw);
+    }
+    .l__0__-10__0.swing {
+        animation: swing__0__-10__0__p 0.5s infinite linear alternate;
+    }
+    .l__0__-10__0.bob {
+        animation: bob__0__-10__0__p 2s infinite linear;
+    }
+}
+.l__0__0__0 {
+    transform: translateX(0vh) translateY(0vh) translateZ(0vh);
+}
+@keyframes swing__0__0__0 {
+    0% {
+        transform: translateX(0vh) translateY(0vh) translateZ(0vh) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(0vh) translateY(0vh) translateZ(0vh) rotateX(-45deg);
+    }
+}
+@keyframes swing__0__0__0__p {
+    0% {
+        transform: translateX(0vw) translateY(0vw) translateZ(0vw) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(0vw) translateY(0vw) translateZ(0vw) rotateX(-45deg);
+    }
+}
+@keyframes bob__0__0__0 {
+    0% {
+        transform: translateX(0vh) translateY(0vh) translateZ(0vh) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(0vh) translateY(0vh) translateZ(0vh) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(0vh) translateY(0vh) translateZ(0vh) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(0vh) translateY(0vh) translateZ(0vh) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(0vh) translateY(0vh) translateZ(0vh) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(0vh) translateY(0vh) translateZ(0vh) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(0vh) translateY(0vh) translateZ(0vh) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(0vh) translateY(0vh) translateZ(0vh) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(0vh) translateY(0vh) translateZ(0vh) rotateX(0deg);
+    }
+}
+@keyframes bob__0__0__0__p {
+    0% {
+        transform: translateX(0vw) translateY(0vw) translateZ(0vw) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(0vw) translateY(0vw) translateZ(0vw) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(0vw) translateY(0vw) translateZ(0vw) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(0vw) translateY(0vw) translateZ(0vw) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(0vw) translateY(0vw) translateZ(0vw) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(0vw) translateY(0vw) translateZ(0vw) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(0vw) translateY(0vw) translateZ(0vw) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(0vw) translateY(0vw) translateZ(0vw) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(0vw) translateY(0vw) translateZ(0vw) rotateX(0deg);
+    }
+}
+.l__0__0__0.swing {
+    animation: swing__0__0__0 0.5s infinite linear alternate;
+}
+.l__0__0__0.bob {
+    animation: bob__0__0__0 2s infinite linear;
+}
+@media screen and (orientation: portrait) {
+    .l__0__0__0 {
+        transform: translateX(0vw) translateY(0vw) translateZ(0vw);
+    }
+    .l__0__0__0.swing {
+        animation: swing__0__0__0__p 0.5s infinite linear alternate;
+    }
+    .l__0__0__0.bob {
+        animation: bob__0__0__0__p 2s infinite linear;
+    }
+}
+.l__-6__0__0 {
+    transform: translateX(-12vh) translateY(0vh) translateZ(0vh);
+}
+@keyframes swing__-6__0__0 {
+    0% {
+        transform: translateX(-12vh) translateY(0vh) translateZ(0vh) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(-12vh) translateY(0vh) translateZ(0vh) rotateX(-45deg);
+    }
+}
+@keyframes swing__-6__0__0__p {
+    0% {
+        transform: translateX(-12vw) translateY(0vw) translateZ(0vw) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(-12vw) translateY(0vw) translateZ(0vw) rotateX(-45deg);
+    }
+}
+@keyframes bob__-6__0__0 {
+    0% {
+        transform: translateX(-12vh) translateY(0vh) translateZ(0vh) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(-12vh) translateY(0vh) translateZ(0vh) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(-12vh) translateY(0vh) translateZ(0vh) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(-12vh) translateY(0vh) translateZ(0vh) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(-12vh) translateY(0vh) translateZ(0vh) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(-12vh) translateY(0vh) translateZ(0vh) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(-12vh) translateY(0vh) translateZ(0vh) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(-12vh) translateY(0vh) translateZ(0vh) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(-12vh) translateY(0vh) translateZ(0vh) rotateX(0deg);
+    }
+}
+@keyframes bob__-6__0__0__p {
+    0% {
+        transform: translateX(-12vw) translateY(0vw) translateZ(0vw) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(-12vw) translateY(0vw) translateZ(0vw) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(-12vw) translateY(0vw) translateZ(0vw) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(-12vw) translateY(0vw) translateZ(0vw) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(-12vw) translateY(0vw) translateZ(0vw) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(-12vw) translateY(0vw) translateZ(0vw) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(-12vw) translateY(0vw) translateZ(0vw) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(-12vw) translateY(0vw) translateZ(0vw) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(-12vw) translateY(0vw) translateZ(0vw) rotateX(0deg);
+    }
+}
+.l__-6__0__0.swing {
+    animation: swing__-6__0__0 0.5s infinite linear alternate;
+}
+.l__-6__0__0.bob {
+    animation: bob__-6__0__0 2s infinite linear;
+}
+@media screen and (orientation: portrait) {
+    .l__-6__0__0 {
+        transform: translateX(-12vw) translateY(0vw) translateZ(0vw);
+    }
+    .l__-6__0__0.swing {
+        animation: swing__-6__0__0__p 0.5s infinite linear alternate;
+    }
+    .l__-6__0__0.bob {
+        animation: bob__-6__0__0__p 2s infinite linear;
+    }
+}
+.l__6__0__0 {
+    transform: translateX(12vh) translateY(0vh) translateZ(0vh);
+}
+@keyframes swing__6__0__0 {
+    0% {
+        transform: translateX(12vh) translateY(0vh) translateZ(0vh) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(12vh) translateY(0vh) translateZ(0vh) rotateX(-45deg);
+    }
+}
+@keyframes swing__6__0__0__p {
+    0% {
+        transform: translateX(12vw) translateY(0vw) translateZ(0vw) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(12vw) translateY(0vw) translateZ(0vw) rotateX(-45deg);
+    }
+}
+@keyframes bob__6__0__0 {
+    0% {
+        transform: translateX(12vh) translateY(0vh) translateZ(0vh) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(12vh) translateY(0vh) translateZ(0vh) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(12vh) translateY(0vh) translateZ(0vh) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(12vh) translateY(0vh) translateZ(0vh) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(12vh) translateY(0vh) translateZ(0vh) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(12vh) translateY(0vh) translateZ(0vh) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(12vh) translateY(0vh) translateZ(0vh) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(12vh) translateY(0vh) translateZ(0vh) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(12vh) translateY(0vh) translateZ(0vh) rotateX(0deg);
+    }
+}
+@keyframes bob__6__0__0__p {
+    0% {
+        transform: translateX(12vw) translateY(0vw) translateZ(0vw) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(12vw) translateY(0vw) translateZ(0vw) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(12vw) translateY(0vw) translateZ(0vw) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(12vw) translateY(0vw) translateZ(0vw) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(12vw) translateY(0vw) translateZ(0vw) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(12vw) translateY(0vw) translateZ(0vw) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(12vw) translateY(0vw) translateZ(0vw) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(12vw) translateY(0vw) translateZ(0vw) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(12vw) translateY(0vw) translateZ(0vw) rotateX(0deg);
+    }
+}
+.l__6__0__0.swing {
+    animation: swing__6__0__0 0.5s infinite linear alternate;
+}
+.l__6__0__0.bob {
+    animation: bob__6__0__0 2s infinite linear;
+}
+@media screen and (orientation: portrait) {
+    .l__6__0__0 {
+        transform: translateX(12vw) translateY(0vw) translateZ(0vw);
+    }
+    .l__6__0__0.swing {
+        animation: swing__6__0__0__p 0.5s infinite linear alternate;
+    }
+    .l__6__0__0.bob {
+        animation: bob__6__0__0__p 2s infinite linear;
+    }
+}
+.l__-2__12__0 {
+    transform: translateX(-4vh) translateY(24vh) translateZ(0vh);
+}
+@keyframes swing__-2__12__0 {
+    0% {
+        transform: translateX(-4vh) translateY(24vh) translateZ(0vh) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(-4vh) translateY(24vh) translateZ(0vh) rotateX(-45deg);
+    }
+}
+@keyframes swing__-2__12__0__p {
+    0% {
+        transform: translateX(-4vw) translateY(24vw) translateZ(0vw) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(-4vw) translateY(24vw) translateZ(0vw) rotateX(-45deg);
+    }
+}
+@keyframes bob__-2__12__0 {
+    0% {
+        transform: translateX(-4vh) translateY(24vh) translateZ(0vh) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(-4vh) translateY(24vh) translateZ(0vh) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(-4vh) translateY(24vh) translateZ(0vh) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(-4vh) translateY(24vh) translateZ(0vh) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(-4vh) translateY(24vh) translateZ(0vh) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(-4vh) translateY(24vh) translateZ(0vh) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(-4vh) translateY(24vh) translateZ(0vh) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(-4vh) translateY(24vh) translateZ(0vh) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(-4vh) translateY(24vh) translateZ(0vh) rotateX(0deg);
+    }
+}
+@keyframes bob__-2__12__0__p {
+    0% {
+        transform: translateX(-4vw) translateY(24vw) translateZ(0vw) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(-4vw) translateY(24vw) translateZ(0vw) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(-4vw) translateY(24vw) translateZ(0vw) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(-4vw) translateY(24vw) translateZ(0vw) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(-4vw) translateY(24vw) translateZ(0vw) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(-4vw) translateY(24vw) translateZ(0vw) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(-4vw) translateY(24vw) translateZ(0vw) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(-4vw) translateY(24vw) translateZ(0vw) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(-4vw) translateY(24vw) translateZ(0vw) rotateX(0deg);
+    }
+}
+.l__-2__12__0.swing {
+    animation: swing__-2__12__0 0.5s infinite linear alternate;
+}
+.l__-2__12__0.bob {
+    animation: bob__-2__12__0 2s infinite linear;
+}
+@media screen and (orientation: portrait) {
+    .l__-2__12__0 {
+        transform: translateX(-4vw) translateY(24vw) translateZ(0vw);
+    }
+    .l__-2__12__0.swing {
+        animation: swing__-2__12__0__p 0.5s infinite linear alternate;
+    }
+    .l__-2__12__0.bob {
+        animation: bob__-2__12__0__p 2s infinite linear;
+    }
+}
+.l__2__12__0 {
+    transform: translateX(4vh) translateY(24vh) translateZ(0vh);
+}
+@keyframes swing__2__12__0 {
+    0% {
+        transform: translateX(4vh) translateY(24vh) translateZ(0vh) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(4vh) translateY(24vh) translateZ(0vh) rotateX(-45deg);
+    }
+}
+@keyframes swing__2__12__0__p {
+    0% {
+        transform: translateX(4vw) translateY(24vw) translateZ(0vw) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(4vw) translateY(24vw) translateZ(0vw) rotateX(-45deg);
+    }
+}
+@keyframes bob__2__12__0 {
+    0% {
+        transform: translateX(4vh) translateY(24vh) translateZ(0vh) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(4vh) translateY(24vh) translateZ(0vh) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(4vh) translateY(24vh) translateZ(0vh) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(4vh) translateY(24vh) translateZ(0vh) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(4vh) translateY(24vh) translateZ(0vh) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(4vh) translateY(24vh) translateZ(0vh) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(4vh) translateY(24vh) translateZ(0vh) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(4vh) translateY(24vh) translateZ(0vh) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(4vh) translateY(24vh) translateZ(0vh) rotateX(0deg);
+    }
+}
+@keyframes bob__2__12__0__p {
+    0% {
+        transform: translateX(4vw) translateY(24vw) translateZ(0vw) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(4vw) translateY(24vw) translateZ(0vw) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(4vw) translateY(24vw) translateZ(0vw) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(4vw) translateY(24vw) translateZ(0vw) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(4vw) translateY(24vw) translateZ(0vw) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(4vw) translateY(24vw) translateZ(0vw) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(4vw) translateY(24vw) translateZ(0vw) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(4vw) translateY(24vw) translateZ(0vw) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(4vw) translateY(24vw) translateZ(0vw) rotateX(0deg);
+    }
+}
+.l__2__12__0.swing {
+    animation: swing__2__12__0 0.5s infinite linear alternate;
+}
+.l__2__12__0.bob {
+    animation: bob__2__12__0 2s infinite linear;
+}
+@media screen and (orientation: portrait) {
+    .l__2__12__0 {
+        transform: translateX(4vw) translateY(24vw) translateZ(0vw);
+    }
+    .l__2__12__0.swing {
+        animation: swing__2__12__0__p 0.5s infinite linear alternate;
+    }
+    .l__2__12__0.bob {
+        animation: bob__2__12__0__p 2s infinite linear;
+    }
+}
+.l__0__-2__10 {
+    transform: translateX(0vh) translateY(-4vh) translateZ(20vh);
+}
+@keyframes swing__0__-2__10 {
+    0% {
+        transform: translateX(0vh) translateY(-4vh) translateZ(20vh) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(0vh) translateY(-4vh) translateZ(20vh) rotateX(-45deg);
+    }
+}
+@keyframes swing__0__-2__10__p {
+    0% {
+        transform: translateX(0vw) translateY(-4vw) translateZ(20vw) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(0vw) translateY(-4vw) translateZ(20vw) rotateX(-45deg);
+    }
+}
+@keyframes bob__0__-2__10 {
+    0% {
+        transform: translateX(0vh) translateY(-4vh) translateZ(20vh) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(0vh) translateY(-4vh) translateZ(20vh) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(0vh) translateY(-4vh) translateZ(20vh) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(0vh) translateY(-4vh) translateZ(20vh) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(0vh) translateY(-4vh) translateZ(20vh) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(0vh) translateY(-4vh) translateZ(20vh) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(0vh) translateY(-4vh) translateZ(20vh) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(0vh) translateY(-4vh) translateZ(20vh) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(0vh) translateY(-4vh) translateZ(20vh) rotateX(0deg);
+    }
+}
+@keyframes bob__0__-2__10__p {
+    0% {
+        transform: translateX(0vw) translateY(-4vw) translateZ(20vw) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(0vw) translateY(-4vw) translateZ(20vw) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(0vw) translateY(-4vw) translateZ(20vw) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(0vw) translateY(-4vw) translateZ(20vw) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(0vw) translateY(-4vw) translateZ(20vw) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(0vw) translateY(-4vw) translateZ(20vw) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(0vw) translateY(-4vw) translateZ(20vw) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(0vw) translateY(-4vw) translateZ(20vw) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(0vw) translateY(-4vw) translateZ(20vw) rotateX(0deg);
+    }
+}
+.l__0__-2__10.swing {
+    animation: swing__0__-2__10 0.5s infinite linear alternate;
+}
+.l__0__-2__10.bob {
+    animation: bob__0__-2__10 2s infinite linear;
+}
+@media screen and (orientation: portrait) {
+    .l__0__-2__10 {
+        transform: translateX(0vw) translateY(-4vw) translateZ(20vw);
+    }
+    .l__0__-2__10.swing {
+        animation: swing__0__-2__10__p 0.5s infinite linear alternate;
+    }
+    .l__0__-2__10.bob {
+        animation: bob__0__-2__10__p 2s infinite linear;
+    }
+}
+.l__0__-1__14 {
+    transform: translateX(0vh) translateY(-2vh) translateZ(28vh);
+}
+@keyframes swing__0__-1__14 {
+    0% {
+        transform: translateX(0vh) translateY(-2vh) translateZ(28vh) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(0vh) translateY(-2vh) translateZ(28vh) rotateX(-45deg);
+    }
+}
+@keyframes swing__0__-1__14__p {
+    0% {
+        transform: translateX(0vw) translateY(-2vw) translateZ(28vw) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(0vw) translateY(-2vw) translateZ(28vw) rotateX(-45deg);
+    }
+}
+@keyframes bob__0__-1__14 {
+    0% {
+        transform: translateX(0vh) translateY(-2vh) translateZ(28vh) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(0vh) translateY(-2vh) translateZ(28vh) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(0vh) translateY(-2vh) translateZ(28vh) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(0vh) translateY(-2vh) translateZ(28vh) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(0vh) translateY(-2vh) translateZ(28vh) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(0vh) translateY(-2vh) translateZ(28vh) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(0vh) translateY(-2vh) translateZ(28vh) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(0vh) translateY(-2vh) translateZ(28vh) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(0vh) translateY(-2vh) translateZ(28vh) rotateX(0deg);
+    }
+}
+@keyframes bob__0__-1__14__p {
+    0% {
+        transform: translateX(0vw) translateY(-2vw) translateZ(28vw) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(0vw) translateY(-2vw) translateZ(28vw) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(0vw) translateY(-2vw) translateZ(28vw) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(0vw) translateY(-2vw) translateZ(28vw) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(0vw) translateY(-2vw) translateZ(28vw) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(0vw) translateY(-2vw) translateZ(28vw) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(0vw) translateY(-2vw) translateZ(28vw) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(0vw) translateY(-2vw) translateZ(28vw) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(0vw) translateY(-2vw) translateZ(28vw) rotateX(0deg);
+    }
+}
+.l__0__-1__14.swing {
+    animation: swing__0__-1__14 0.5s infinite linear alternate;
+}
+.l__0__-1__14.bob {
+    animation: bob__0__-1__14 2s infinite linear;
+}
+@media screen and (orientation: portrait) {
+    .l__0__-1__14 {
+        transform: translateX(0vw) translateY(-2vw) translateZ(28vw);
+    }
+    .l__0__-1__14.swing {
+        animation: swing__0__-1__14__p 0.5s infinite linear alternate;
+    }
+    .l__0__-1__14.bob {
+        animation: bob__0__-1__14__p 2s infinite linear;
+    }
+}
+.l__-3__7__5 {
+    transform: translateX(-6vh) translateY(14vh) translateZ(10vh);
+}
+@keyframes swing__-3__7__5 {
+    0% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(10vh) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(10vh) rotateX(-45deg);
+    }
+}
+@keyframes swing__-3__7__5__p {
+    0% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(10vw) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(10vw) rotateX(-45deg);
+    }
+}
+@keyframes bob__-3__7__5 {
+    0% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(10vh) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(10vh) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(10vh) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(10vh) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(10vh) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(10vh) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(10vh) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(10vh) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(10vh) rotateX(0deg);
+    }
+}
+@keyframes bob__-3__7__5__p {
+    0% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(10vw) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(10vw) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(10vw) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(10vw) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(10vw) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(10vw) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(10vw) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(10vw) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(10vw) rotateX(0deg);
+    }
+}
+.l__-3__7__5.swing {
+    animation: swing__-3__7__5 0.5s infinite linear alternate;
+}
+.l__-3__7__5.bob {
+    animation: bob__-3__7__5 2s infinite linear;
+}
+@media screen and (orientation: portrait) {
+    .l__-3__7__5 {
+        transform: translateX(-6vw) translateY(14vw) translateZ(10vw);
+    }
+    .l__-3__7__5.swing {
+        animation: swing__-3__7__5__p 0.5s infinite linear alternate;
+    }
+    .l__-3__7__5.bob {
+        animation: bob__-3__7__5__p 2s infinite linear;
+    }
+}
+.l__3__7__5 {
+    transform: translateX(6vh) translateY(14vh) translateZ(10vh);
+}
+@keyframes swing__3__7__5 {
+    0% {
+        transform: translateX(6vh) translateY(14vh) translateZ(10vh) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(6vh) translateY(14vh) translateZ(10vh) rotateX(-45deg);
+    }
+}
+@keyframes swing__3__7__5__p {
+    0% {
+        transform: translateX(6vw) translateY(14vw) translateZ(10vw) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(6vw) translateY(14vw) translateZ(10vw) rotateX(-45deg);
+    }
+}
+@keyframes bob__3__7__5 {
+    0% {
+        transform: translateX(6vh) translateY(14vh) translateZ(10vh) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(6vh) translateY(14vh) translateZ(10vh) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(6vh) translateY(14vh) translateZ(10vh) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(6vh) translateY(14vh) translateZ(10vh) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(6vh) translateY(14vh) translateZ(10vh) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(6vh) translateY(14vh) translateZ(10vh) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(6vh) translateY(14vh) translateZ(10vh) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(6vh) translateY(14vh) translateZ(10vh) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(6vh) translateY(14vh) translateZ(10vh) rotateX(0deg);
+    }
+}
+@keyframes bob__3__7__5__p {
+    0% {
+        transform: translateX(6vw) translateY(14vw) translateZ(10vw) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(6vw) translateY(14vw) translateZ(10vw) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(6vw) translateY(14vw) translateZ(10vw) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(6vw) translateY(14vw) translateZ(10vw) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(6vw) translateY(14vw) translateZ(10vw) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(6vw) translateY(14vw) translateZ(10vw) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(6vw) translateY(14vw) translateZ(10vw) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(6vw) translateY(14vw) translateZ(10vw) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(6vw) translateY(14vw) translateZ(10vw) rotateX(0deg);
+    }
+}
+.l__3__7__5.swing {
+    animation: swing__3__7__5 0.5s infinite linear alternate;
+}
+.l__3__7__5.bob {
+    animation: bob__3__7__5 2s infinite linear;
+}
+@media screen and (orientation: portrait) {
+    .l__3__7__5 {
+        transform: translateX(6vw) translateY(14vw) translateZ(10vw);
+    }
+    .l__3__7__5.swing {
+        animation: swing__3__7__5__p 0.5s infinite linear alternate;
+    }
+    .l__3__7__5.bob {
+        animation: bob__3__7__5__p 2s infinite linear;
+    }
+}
+.l__-3__7__-7 {
+    transform: translateX(-6vh) translateY(14vh) translateZ(-14vh);
+}
+@keyframes swing__-3__7__-7 {
+    0% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(-14vh) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(-14vh) rotateX(-45deg);
+    }
+}
+@keyframes swing__-3__7__-7__p {
+    0% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(-14vw) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(-14vw) rotateX(-45deg);
+    }
+}
+@keyframes bob__-3__7__-7 {
+    0% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(-14vh) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(-14vh) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(-14vh) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(-14vh) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(-14vh) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(-14vh) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(-14vh) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(-14vh) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(-6vh) translateY(14vh) translateZ(-14vh) rotateX(0deg);
+    }
+}
+@keyframes bob__-3__7__-7__p {
+    0% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(-14vw) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(-14vw) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(-14vw) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(-14vw) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(-14vw) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(-14vw) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(-14vw) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(-14vw) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(-6vw) translateY(14vw) translateZ(-14vw) rotateX(0deg);
+    }
+}
+.l__-3__7__-7.swing {
+    animation: swing__-3__7__-7 0.5s infinite linear alternate;
+}
+.l__-3__7__-7.bob {
+    animation: bob__-3__7__-7 2s infinite linear;
+}
+@media screen and (orientation: portrait) {
+    .l__-3__7__-7 {
+        transform: translateX(-6vw) translateY(14vw) translateZ(-14vw);
+    }
+    .l__-3__7__-7.swing {
+        animation: swing__-3__7__-7__p 0.5s infinite linear alternate;
+    }
+    .l__-3__7__-7.bob {
+        animation: bob__-3__7__-7__p 2s infinite linear;
+    }
+}
+.l__3__7__-7 {
+    transform: translateX(6vh) translateY(14vh) translateZ(-14vh);
+}
+@keyframes swing__3__7__-7 {
+    0% {
+        transform: translateX(6vh) translateY(14vh) translateZ(-14vh) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(6vh) translateY(14vh) translateZ(-14vh) rotateX(-45deg);
+    }
+}
+@keyframes swing__3__7__-7__p {
+    0% {
+        transform: translateX(6vw) translateY(14vw) translateZ(-14vw) rotateX(45deg);
+    }
+    100% {
+        transform: translateX(6vw) translateY(14vw) translateZ(-14vw) rotateX(-45deg);
+    }
+}
+@keyframes bob__3__7__-7 {
+    0% {
+        transform: translateX(6vh) translateY(14vh) translateZ(-14vh) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(6vh) translateY(14vh) translateZ(-14vh) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(6vh) translateY(14vh) translateZ(-14vh) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(6vh) translateY(14vh) translateZ(-14vh) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(6vh) translateY(14vh) translateZ(-14vh) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(6vh) translateY(14vh) translateZ(-14vh) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(6vh) translateY(14vh) translateZ(-14vh) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(6vh) translateY(14vh) translateZ(-14vh) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(6vh) translateY(14vh) translateZ(-14vh) rotateX(0deg);
+    }
+}
+@keyframes bob__3__7__-7__p {
+    0% {
+        transform: translateX(6vw) translateY(14vw) translateZ(-14vw) rotateX(0deg);
+    }
+    10% {
+        transform: translateX(6vw) translateY(14vw) translateZ(-14vw) rotateX(0deg);
+    }
+    20% {
+        transform: translateX(6vw) translateY(14vw) translateZ(-14vw) rotateX(-45deg);
+    }
+    30% {
+        transform: translateX(6vw) translateY(14vw) translateZ(-14vw) rotateX(-15deg);
+    }
+    40% {
+        transform: translateX(6vw) translateY(14vw) translateZ(-14vw) rotateX(-45deg);
+    }
+    50% {
+        transform: translateX(6vw) translateY(14vw) translateZ(-14vw) rotateX(-15deg);
+    }
+    60% {
+        transform: translateX(6vw) translateY(14vw) translateZ(-14vw) rotateX(-45deg);
+    }
+    70% {
+        transform: translateX(6vw) translateY(14vw) translateZ(-14vw) rotateX(0deg);
+    }
+    100% {
+        transform: translateX(6vw) translateY(14vw) translateZ(-14vw) rotateX(0deg);
+    }
+}
+.l__3__7__-7.swing {
+    animation: swing__3__7__-7 0.5s infinite linear alternate;
+}
+.l__3__7__-7.bob {
+    animation: bob__3__7__-7 2s infinite linear;
+}
+@media screen and (orientation: portrait) {
+    .l__3__7__-7 {
+        transform: translateX(6vw) translateY(14vw) translateZ(-14vw);
+    }
+    .l__3__7__-7.swing {
+        animation: swing__3__7__-7__p 0.5s infinite linear alternate;
+    }
+    .l__3__7__-7.bob {
+        animation: bob__3__7__-7__p 2s infinite linear;
+    }
+}
+.o__0__0__0 {
+    transform-origin: 0vh 0vh 0vh;
+}
+@media screen and (orientation: portrait) {
+    .o__0__0__0 {
+        transform-origin: 0vw 0vw 0vw;
+    }
+}
+.o__0__-4__0 {
+    transform-origin: 0vh -8vh 0vh;
+}
+@media screen and (orientation: portrait) {
+    .o__0__-4__0 {
+        transform-origin: 0vw -8vw 0vw;
+    }
+}
+.o__0__-6__0 {
+    transform-origin: 0vh -12vh 0vh;
+}
+@media screen and (orientation: portrait) {
+    .o__0__-6__0 {
+        transform-origin: 0vw -12vw 0vw;
+    }
+}
+.o__0__0__-4 {
+    transform-origin: 0vh 0vh -8vh;
+}
+@media screen and (orientation: portrait) {
+    .o__0__0__-4 {
+        transform-origin: 0vw 0vw -8vw;
+    }
+}
+.o__0__-1__-8 {
+    transform-origin: 0vh -2vh -16vh;
+}
+@media screen and (orientation: portrait) {
+    .o__0__-1__-8 {
+        transform-origin: 0vw -2vw -16vw;
+    }
+}
+.o__0__-3__0 {
+    transform-origin: 0vh -6vh 0vh;
+}
+@media screen and (orientation: portrait) {
+    .o__0__-3__0 {
+        transform-origin: 0vw -6vw 0vw;
+    }
+}
+.entity.steve {
+    transform: rotateX(90deg);
+    offset-path: path('M 0,0 C 45.75,-98.25 271.5,-64.5 274.5,-172.5 276.75,-249 163.5,-301.5 116,-306 -0.75,-312 -136.5,-268.5 -144.75,-180.75 -165,29.25 341.25,10.5 345,222 347.25,349.5 178.5,520.5 59.25,475.5 -90,419.25 -69,143.25 0,0 Z');
+    offset-rotate: auto 90deg;
+    animation: move 7s linear infinite;
+    display: none;
+}
+@media screen and (orientation: landscape) and (min-height: 540px) {
+    .entity.steve {
+        offset-path: path('M 0,0 C 61,-131 362,-86 366,-230 369,-332 218,-402 116,-408 -1,-416 -182,-358 -193,-241 -220,39 455,14 460,296 463,466 238,694 79,634 -120,559 -92,191 0,0 Z');
+    }
+}
+@media screen and (orientation: landscape) and (min-height: 800px) {
+    .entity.steve {
+        offset-path: path('M 0,0 C 79.3,-170.3 470.6,-111.8 475.8,-299 479.7,-431.6 283.4,-522.6 150.8,-530.4 -1.3,-540.8 -236.6,-465.4 -250.9,-313.3 -286,50.7 591.5,18.2 598,384.8 601.9,605.8 309.4,902.2 102.7,824.2 -156,726.7 -119.6,248.3 0,0 Z');
+        animation: move 5s linear infinite;
+    }
+}
+@media screen and (orientation: landscape) and (min-height: 1200px) {
+    .entity.steve {
+        offset-path: path('M 0,0 C 97.6,-209.6 579.2,-137.6 585.6,-368 590.4,-531.2 348.8,-643.2 185.6,-652.8 -1.6,-665.6 -291.2,-572.8 -308.8,-385.6 -352,62.4 712,22.4 736,473.6 740.8,745.6 380.8,1110.4 126.4,1014.4 -192,894.4 -147.2,305.6 0,0 Z');
+        animation: move 5s linear infinite;
+    }
+}
+@media screen and (orientation: portrait) and (min-width: 540px) {
+    .entity.steve {
+        offset-path: path('M 0,0 C 61,-131 362,-86 366,-230 369,-332 218,-402 116,-408 -1,-416 -182,-358 -193,-241 -220,39 455,14 460,296 463,466 238,694 79,634 -120,559 -92,191 0,0 Z');
+    }
+}
+@media screen and (orientation: portrait) and (min-width: 800px) {
+    .entity.steve {
+        offset-path: path('M 0,0 C 79.3,-170.3 470.6,-111.8 475.8,-299 479.7,-431.6 283.4,-522.6 150.8,-530.4 -1.3,-540.8 -236.6,-465.4 -250.9,-313.3 -286,50.7 591.5,18.2 598,384.8 601.9,605.8 309.4,902.2 102.7,824.2 -156,726.7 -119.6,248.3 0,0 Z');
+        animation: move 5s linear infinite;
+    }
+}
+@media screen and (orientation: portrait) and (min-width: 1200px) {
+    .entity.steve {
+        offset-path: path('M 0,0 C 97.6,-209.6 579.2,-137.6 585.6,-368 590.4,-531.2 348.8,-643.2 185.6,-652.8 -1.6,-665.6 -291.2,-572.8 -308.8,-385.6 -352,62.4 712,22.4 736,473.6 740.8,745.6 380.8,1110.4 126.4,1014.4 -192,894.4 -147.2,305.6 0,0 Z');
+        animation: move 5s linear infinite;
+    }
+}
+.entity.pig {
+    transform: rotateX(90deg) rotateY(130deg) translateY(14vh) translateZ(-128vh) translateX(-32vh);
+    margin-top: 14vh;
+    display: none;
+}
+@media screen and (orientation: portrait) {
+    .entity.pig {
+        transform: rotateX(90deg) rotateY(130deg) translateY(14vw) translateZ(-128vw);
+        margin-top: 14vw;
+    }
+}
+.entity.pig .pig__body {
+    transform: rotateX(-90deg);
+}
+.environment {
+    transform: rotateX(90deg);
+    display: none;
+}
+.grass-top {
+    box-shadow: 2vh 2vh #4e772a, 4vh 2vh #679d38, 6vh 2vh #4e762a, 8vh 2vh #476c26, 10vh 2vh #476c26, 12vh 2vh #4c7329, 14vh 2vh #436624, 16vh 2vh #4a7128, 18vh 2vh #547f2d, 20vh 2vh #4f792b, 22vh 2vh #496f28, 24vh 2vh #476d27, 26vh 2vh #496e27, 28vh 2vh #588630, 30vh 2vh #3b5a20, 32vh 2vh #4b7128, 2vh 4vh #4f782b, 4vh 4vh #4a7128, 6vh 4vh #55812e, 8vh 4vh #50792b, 10vh 4vh #517b2c, 12vh 4vh #446725, 14vh 4vh #517b2c, 16vh 4vh #456925, 18vh 4vh #436624, 20vh 4vh #598830, 22vh 4vh #588530, 24vh 4vh #4e762a, 26vh 4vh #679d38, 28vh 4vh #4a7128, 30vh 4vh #476d27, 32vh 4vh #4a7028, 2vh 6vh #56832f, 4vh 6vh #4b7128, 6vh 6vh #426424, 8vh 6vh #466a26, 10vh 6vh #496e27, 12vh 6vh #486d27, 14vh 6vh #4c7429, 16vh 6vh #4c7429, 18vh 6vh #4e772a, 20vh 6vh #54802e, 22vh 6vh #598730, 24vh 6vh #5c8b32, 26vh 6vh #476d27, 28vh 6vh #3f6022, 30vh 6vh #446725, 32vh 6vh #609234, 2vh 8vh #3e5f22, 4vh 8vh #466b26, 6vh 8vh #496f28, 8vh 8vh #50792b, 10vh 8vh #4d752a, 12vh 8vh #517b2c, 14vh 8vh #426424, 16vh 8vh #4d752a, 18vh 8vh #436624, 20vh 8vh #456926, 22vh 8vh #4b7128, 24vh 8vh #50792b, 26vh 8vh #4c7329, 28vh 8vh #4a7028, 30vh 8vh #588630, 32vh 8vh #426424, 2vh 10vh #56822e, 4vh 10vh #456926, 6vh 10vh #5c8b32, 8vh 10vh #456926, 10vh 10vh #5b8a31, 12vh 10vh #5c8c32, 14vh 10vh #486d27, 16vh 10vh #5b8a31, 18vh 10vh #629635, 20vh 10vh #3e5e21, 22vh 10vh #446725, 24vh 10vh #588630, 26vh 10vh #5b8931, 28vh 10vh #436524, 30vh 10vh #486d27, 32vh 10vh #4b7128, 2vh 12vh #517b2c, 4vh 12vh #507a2c, 6vh 12vh #406022, 8vh 12vh #588530, 10vh 12vh #446825, 12vh 12vh #4f792b, 14vh 12vh #4f782b, 16vh 12vh #527d2c, 18vh 12vh #476d27, 20vh 12vh #4f782b, 22vh 12vh #486d27, 24vh 12vh #456926, 26vh 12vh #406022, 28vh 12vh #486d27, 30vh 12vh #4b7229, 32vh 12vh #4e772a, 2vh 14vh #436524, 4vh 14vh #537d2d, 6vh 14vh #57852f, 8vh 14vh #4c7429, 10vh 14vh #4d752a, 12vh 14vh #456926, 14vh 14vh #496f28, 16vh 14vh #436624, 18vh 14vh #466a26, 20vh 14vh #476d27, 22vh 14vh #609234, 24vh 14vh #5b8a31, 26vh 14vh #4d752a, 28vh 14vh #588630, 30vh 14vh #50792b, 32vh 14vh #4c7329, 2vh 16vh #4c7329, 4vh 16vh #476d27, 6vh 16vh #537e2d, 8vh 16vh #4a7028, 10vh 16vh #4c7429, 12vh 16vh #426423, 14vh 16vh #57842f, 16vh 16vh #466a26, 18vh 16vh #50792b, 20vh 16vh #5c8b32, 22vh 16vh #476d27, 24vh 16vh #446825, 26vh 16vh #4c7329, 28vh 16vh #55812e, 30vh 16vh #436624, 32vh 16vh #598830, 2vh 18vh #588630, 4vh 18vh #527d2c, 6vh 18vh #609234, 8vh 18vh #5a8931, 10vh 18vh #5b8a31, 12vh 18vh #446825, 14vh 18vh #5c8b32, 16vh 18vh #537d2d, 18vh 18vh #5f9033, 20vh 18vh #5a8931, 22vh 18vh #456925, 24vh 18vh #4d752a, 26vh 18vh #466b26, 28vh 18vh #4e762a, 30vh 18vh #547f2d, 32vh 18vh #436524, 2vh 20vh #50792b, 4vh 20vh #456925, 6vh 20vh #619334, 8vh 20vh #4b7128, 10vh 20vh #4a7128, 12vh 20vh #507a2c, 14vh 20vh #5a8931, 16vh 20vh #446725, 18vh 20vh #476d27, 20vh 20vh #4d752a, 22vh 20vh #4d752a, 24vh 20vh #598830, 26vh 20vh #4b7229, 28vh 20vh #5f9033, 30vh 20vh #4c7329, 32vh 20vh #446825, 2vh 22vh #527d2c, 4vh 22vh #547f2d, 6vh 22vh #50792b, 8vh 22vh #57852f, 10vh 22vh #456925, 12vh 22vh #609234, 14vh 22vh #4b7229, 16vh 22vh #4e762a, 18vh 22vh #669a37, 20vh 22vh #406123, 22vh 22vh #588630, 24vh 22vh #456926, 26vh 22vh #4c7329, 28vh 22vh #486d27, 30vh 22vh #50792b, 32vh 22vh #4c7329, 2vh 24vh #466a26, 4vh 24vh #5c8b32, 6vh 24vh #476c26, 8vh 24vh #56832f, 10vh 24vh #50792b, 12vh 24vh #466a26, 14vh 24vh #4d752a, 16vh 24vh #496e27, 18vh 24vh #50792b, 20vh 24vh #4d752a, 22vh 24vh #4a7128, 24vh 24vh #416323, 26vh 24vh #5f9033, 28vh 24vh #436624, 30vh 24vh #426424, 32vh 24vh #496f28, 2vh 26vh #629635, 4vh 26vh #50792b, 6vh 26vh #446825, 8vh 26vh #496f28, 10vh 26vh #517b2c, 12vh 26vh #4d752a, 14vh 26vh #466b26, 16vh 26vh #416223, 18vh 26vh #496f28, 20vh 26vh #4d752a, 22vh 26vh #496f28, 24vh 26vh #426424, 26vh 26vh #54802e, 28vh 26vh #57852f, 30vh 26vh #406123, 32vh 26vh #50792b, 2vh 28vh #446825, 4vh 28vh #598730, 6vh 28vh #3e5f22, 8vh 28vh #4d752a, 10vh 28vh #426424, 12vh 28vh #517b2c, 14vh 28vh #446825, 16vh 28vh #679d38, 18vh 28vh #55812e, 20vh 28vh #4e762a, 22vh 28vh #598730, 24vh 28vh #527d2c, 26vh 28vh #55812e, 28vh 28vh #486d27, 30vh 28vh #598730, 32vh 28vh #5c8c32, 2vh 30vh #56832f, 4vh 30vh #55812e, 6vh 30vh #669a37, 8vh 30vh #416323, 10vh 30vh #5f9033, 12vh 30vh #5b8931, 14vh 30vh #4e772a, 16vh 30vh #4e762a, 18vh 30vh #436524, 20vh 30vh #4f782b, 22vh 30vh #4f782b, 24vh 30vh #476d27, 26vh 30vh #598830, 28vh 30vh #537e2d, 30vh 30vh #4a7028, 32vh 30vh #406123, 2vh 32vh #466b26, 4vh 32vh #4f792b, 6vh 32vh #486d27, 8vh 32vh #496e27, 10vh 32vh #57842f, 12vh 32vh #507a2c, 14vh 32vh #4e772a, 16vh 32vh #4e762a, 18vh 32vh #4b7229, 20vh 32vh #659a37, 22vh 32vh #426423, 24vh 32vh #598830, 26vh 32vh #466a26, 28vh 32vh #4c7429, 30vh 32vh #486d27, 32vh 32vh #547f2d;
+}
+@media screen and (orientation: portrait) {
+    .grass-top {
+        box-shadow: 2vw 2vw #4e772a, 4vw 2vw #679d38, 6vw 2vw #4e762a, 8vw 2vw #476c26, 10vw 2vw #476c26, 12vw 2vw #4c7329, 14vw 2vw #436624, 16vw 2vw #4a7128, 18vw 2vw #547f2d, 20vw 2vw #4f792b, 22vw 2vw #496f28, 24vw 2vw #476d27, 26vw 2vw #496e27, 28vw 2vw #588630, 30vw 2vw #3b5a20, 32vw 2vw #4b7128, 2vw 4vw #4f782b, 4vw 4vw #4a7128, 6vw 4vw #55812e, 8vw 4vw #50792b, 10vw 4vw #517b2c, 12vw 4vw #446725, 14vw 4vw #517b2c, 16vw 4vw #456925, 18vw 4vw #436624, 20vw 4vw #598830, 22vw 4vw #588530, 24vw 4vw #4e762a, 26vw 4vw #679d38, 28vw 4vw #4a7128, 30vw 4vw #476d27, 32vw 4vw #4a7028, 2vw 6vw #56832f, 4vw 6vw #4b7128, 6vw 6vw #426424, 8vw 6vw #466a26, 10vw 6vw #496e27, 12vw 6vw #486d27, 14vw 6vw #4c7429, 16vw 6vw #4c7429, 18vw 6vw #4e772a, 20vw 6vw #54802e, 22vw 6vw #598730, 24vw 6vw #5c8b32, 26vw 6vw #476d27, 28vw 6vw #3f6022, 30vw 6vw #446725, 32vw 6vw #609234, 2vw 8vw #3e5f22, 4vw 8vw #466b26, 6vw 8vw #496f28, 8vw 8vw #50792b, 10vw 8vw #4d752a, 12vw 8vw #517b2c, 14vw 8vw #426424, 16vw 8vw #4d752a, 18vw 8vw #436624, 20vw 8vw #456926, 22vw 8vw #4b7128, 24vw 8vw #50792b, 26vw 8vw #4c7329, 28vw 8vw #4a7028, 30vw 8vw #588630, 32vw 8vw #426424, 2vw 10vw #56822e, 4vw 10vw #456926, 6vw 10vw #5c8b32, 8vw 10vw #456926, 10vw 10vw #5b8a31, 12vw 10vw #5c8c32, 14vw 10vw #486d27, 16vw 10vw #5b8a31, 18vw 10vw #629635, 20vw 10vw #3e5e21, 22vw 10vw #446725, 24vw 10vw #588630, 26vw 10vw #5b8931, 28vw 10vw #436524, 30vw 10vw #486d27, 32vw 10vw #4b7128, 2vw 12vw #517b2c, 4vw 12vw #507a2c, 6vw 12vw #406022, 8vw 12vw #588530, 10vw 12vw #446825, 12vw 12vw #4f792b, 14vw 12vw #4f782b, 16vw 12vw #527d2c, 18vw 12vw #476d27, 20vw 12vw #4f782b, 22vw 12vw #486d27, 24vw 12vw #456926, 26vw 12vw #406022, 28vw 12vw #486d27, 30vw 12vw #4b7229, 32vw 12vw #4e772a, 2vw 14vw #436524, 4vw 14vw #537d2d, 6vw 14vw #57852f, 8vw 14vw #4c7429, 10vw 14vw #4d752a, 12vw 14vw #456926, 14vw 14vw #496f28, 16vw 14vw #436624, 18vw 14vw #466a26, 20vw 14vw #476d27, 22vw 14vw #609234, 24vw 14vw #5b8a31, 26vw 14vw #4d752a, 28vw 14vw #588630, 30vw 14vw #50792b, 32vw 14vw #4c7329, 2vw 16vw #4c7329, 4vw 16vw #476d27, 6vw 16vw #537e2d, 8vw 16vw #4a7028, 10vw 16vw #4c7429, 12vw 16vw #426423, 14vw 16vw #57842f, 16vw 16vw #466a26, 18vw 16vw #50792b, 20vw 16vw #5c8b32, 22vw 16vw #476d27, 24vw 16vw #446825, 26vw 16vw #4c7329, 28vw 16vw #55812e, 30vw 16vw #436624, 32vw 16vw #598830, 2vw 18vw #588630, 4vw 18vw #527d2c, 6vw 18vw #609234, 8vw 18vw #5a8931, 10vw 18vw #5b8a31, 12vw 18vw #446825, 14vw 18vw #5c8b32, 16vw 18vw #537d2d, 18vw 18vw #5f9033, 20vw 18vw #5a8931, 22vw 18vw #456925, 24vw 18vw #4d752a, 26vw 18vw #466b26, 28vw 18vw #4e762a, 30vw 18vw #547f2d, 32vw 18vw #436524, 2vw 20vw #50792b, 4vw 20vw #456925, 6vw 20vw #619334, 8vw 20vw #4b7128, 10vw 20vw #4a7128, 12vw 20vw #507a2c, 14vw 20vw #5a8931, 16vw 20vw #446725, 18vw 20vw #476d27, 20vw 20vw #4d752a, 22vw 20vw #4d752a, 24vw 20vw #598830, 26vw 20vw #4b7229, 28vw 20vw #5f9033, 30vw 20vw #4c7329, 32vw 20vw #446825, 2vw 22vw #527d2c, 4vw 22vw #547f2d, 6vw 22vw #50792b, 8vw 22vw #57852f, 10vw 22vw #456925, 12vw 22vw #609234, 14vw 22vw #4b7229, 16vw 22vw #4e762a, 18vw 22vw #669a37, 20vw 22vw #406123, 22vw 22vw #588630, 24vw 22vw #456926, 26vw 22vw #4c7329, 28vw 22vw #486d27, 30vw 22vw #50792b, 32vw 22vw #4c7329, 2vw 24vw #466a26, 4vw 24vw #5c8b32, 6vw 24vw #476c26, 8vw 24vw #56832f, 10vw 24vw #50792b, 12vw 24vw #466a26, 14vw 24vw #4d752a, 16vw 24vw #496e27, 18vw 24vw #50792b, 20vw 24vw #4d752a, 22vw 24vw #4a7128, 24vw 24vw #416323, 26vw 24vw #5f9033, 28vw 24vw #436624, 30vw 24vw #426424, 32vw 24vw #496f28, 2vw 26vw #629635, 4vw 26vw #50792b, 6vw 26vw #446825, 8vw 26vw #496f28, 10vw 26vw #517b2c, 12vw 26vw #4d752a, 14vw 26vw #466b26, 16vw 26vw #416223, 18vw 26vw #496f28, 20vw 26vw #4d752a, 22vw 26vw #496f28, 24vw 26vw #426424, 26vw 26vw #54802e, 28vw 26vw #57852f, 30vw 26vw #406123, 32vw 26vw #50792b, 2vw 28vw #446825, 4vw 28vw #598730, 6vw 28vw #3e5f22, 8vw 28vw #4d752a, 10vw 28vw #426424, 12vw 28vw #517b2c, 14vw 28vw #446825, 16vw 28vw #679d38, 18vw 28vw #55812e, 20vw 28vw #4e762a, 22vw 28vw #598730, 24vw 28vw #527d2c, 26vw 28vw #55812e, 28vw 28vw #486d27, 30vw 28vw #598730, 32vw 28vw #5c8c32, 2vw 30vw #56832f, 4vw 30vw #55812e, 6vw 30vw #669a37, 8vw 30vw #416323, 10vw 30vw #5f9033, 12vw 30vw #5b8931, 14vw 30vw #4e772a, 16vw 30vw #4e762a, 18vw 30vw #436524, 20vw 30vw #4f782b, 22vw 30vw #4f782b, 24vw 30vw #476d27, 26vw 30vw #598830, 28vw 30vw #537e2d, 30vw 30vw #4a7028, 32vw 30vw #406123, 2vw 32vw #466b26, 4vw 32vw #4f792b, 6vw 32vw #486d27, 8vw 32vw #496e27, 10vw 32vw #57842f, 12vw 32vw #507a2c, 14vw 32vw #4e772a, 16vw 32vw #4e762a, 18vw 32vw #4b7229, 20vw 32vw #659a37, 22vw 32vw #426423, 24vw 32vw #598830, 26vw 32vw #466a26, 28vw 32vw #4c7429, 30vw 32vw #486d27, 32vw 32vw #547f2d;
+    }
+}
+.grass-side {
+    box-shadow: 2vh 2vh #74b44a, 4vh 2vh #76b64c, 6vh 2vh #73b349, 8vh 2vh #66a63c, 10vh 2vh #66a63c, 12vh 2vh #6faf45, 14vh 2vh #5f9f35, 16vh 2vh #6cac42, 18vh 2vh #7ebe54, 20vh 2vh #76b64c, 22vh 2vh #6aaa40, 24vh 2vh #67a73d, 26vh 2vh #69a93f, 28vh 2vh #61a137, 30vh 2vh #509026, 32vh 2vh #6dad43, 2vh 4vh #75b54b, 4vh 4vh #6cac42, 6vh 4vh #8ab95a, 8vh 4vh #81b051, 10vh 4vh #83b253, 12vh 4vh #593d29, 14vh 4vh #68a83e, 16vh 4vh #62a238, 18vh 4vh #5f9f35, 20vh 4vh #93c263, 22vh 4vh #90bf60, 24vh 4vh #73b349, 26vh 4vh #61a137, 28vh 4vh #6cac42, 30vh 4vh #67a73d, 32vh 4vh #6bab41, 2vh 6vh #8dbc5d, 4vh 6vh #593d29, 6vh 6vh #9ccb6c, 8vh 6vh #64a43a, 10vh 6vh #69a93f, 12vh 6vh #593d29, 14vh 6vh #70b046, 16vh 6vh #593d29, 18vh 6vh #74b44a, 20vh 6vh #7fbf55, 22vh 6vh #92c162, 24vh 6vh #97c667, 26vh 6vh #593d29, 28vh 6vh #57972d, 30vh 6vh #60a036, 32vh 6vh #593d29, 2vh 8vh #593d29, 4vh 8vh #6c6c6c, 6vh 8vh #593d29, 8vh 8vh #593d29, 10vh 8vh #71b147, 12vh 8vh #593d29, 14vh 8vh #593d29, 16vh 8vh #593d29, 18vh 8vh #5f9f35, 20vh 8vh #593d29, 22vh 8vh #6dad43, 24vh 8vh #593d29, 26vh 8vh #79553a, 28vh 8vh #593d29, 30vh 8vh #593d29, 32vh 8vh #79553a, 2vh 10vh #966c4a, 4vh 10vh #79553a, 6vh 10vh #966c4a, 8vh 10vh #b9855c, 10vh 10vh #593d29, 12vh 10vh #966c4a, 14vh 10vh #79553a, 16vh 10vh #79553a, 18vh 10vh #593d29, 20vh 10vh #593d29, 22vh 10vh #593d29, 24vh 10vh #6c6c6c, 26vh 10vh #79553a, 28vh 10vh #966c4a, 30vh 10vh #593d29, 32vh 10vh #79553a, 2vh 12vh #79553a, 4vh 12vh #593d29, 6vh 12vh #966c4a, 8vh 12vh #966c4a, 10vh 12vh #79553a, 12vh 12vh #966c4a, 14vh 12vh #593d29, 16vh 12vh #593d29, 18vh 12vh #593d29, 20vh 12vh #79553a, 22vh 12vh #79553a, 24vh 12vh #593d29, 26vh 12vh #79553a, 28vh 12vh #79553a, 30vh 12vh #79553a, 32vh 12vh #b9855c, 2vh 14vh #b9855c, 4vh 14vh #79553a, 6vh 14vh #79553a, 8vh 14vh #79553a, 10vh 14vh #878787, 12vh 14vh #79553a, 14vh 14vh #79553a, 16vh 14vh #b9855c, 18vh 14vh #b9855c, 20vh 14vh #79553a, 22vh 14vh #b9855c, 24vh 14vh #b9855c, 26vh 14vh #79553a, 28vh 14vh #966c4a, 30vh 14vh #79553a, 32vh 14vh #966c4a, 2vh 16vh #79553a, 4vh 16vh #79553a, 6vh 16vh #b9855c, 8vh 16vh #b9855c, 10vh 16vh #966c4a, 12vh 16vh #966c4a, 14vh 16vh #79553a, 16vh 16vh #79553a, 18vh 16vh #966c4a, 20vh 16vh #593d29, 22vh 16vh #966c4a, 24vh 16vh #966c4a, 26vh 16vh #79553a, 28vh 16vh #79553a, 30vh 16vh #966c4a, 32vh 16vh #966c4a, 2vh 18vh #966c4a, 4vh 18vh #79553a, 6vh 18vh #79553a, 8vh 18vh #966c4a, 10vh 18vh #79553a, 12vh 18vh #966c4a, 14vh 18vh #79553a, 16vh 18vh #593d29, 18vh 18vh #79553a, 20vh 18vh #966c4a, 22vh 18vh #966c4a, 24vh 18vh #79553a, 26vh 18vh #79553a, 28vh 18vh #79553a, 30vh 18vh #593d29, 32vh 18vh #79553a, 2vh 20vh #79553a, 4vh 20vh #966c4a, 6vh 20vh #593d29, 8vh 20vh #79553a, 10vh 20vh #79553a, 12vh 20vh #593d29, 14vh 20vh #593d29, 16vh 20vh #79553a, 18vh 20vh #79553a, 20vh 20vh #79553a, 22vh 20vh #79553a, 24vh 20vh #79553a, 26vh 20vh #b9855c, 28vh 20vh #b9855c, 30vh 20vh #79553a, 32vh 20vh #966c4a, 2vh 22vh #79553a, 4vh 22vh #966c4a, 6vh 22vh #79553a, 8vh 22vh #b9855c, 10vh 22vh #b9855c, 12vh 22vh #79553a, 14vh 22vh #b9855c, 16vh 22vh #966c4a, 18vh 22vh #593d29, 20vh 22vh #b9855c, 22vh 22vh #b9855c, 24vh 22vh #593d29, 26vh 22vh #966c4a, 28vh 22vh #966c4a, 30vh 22vh #878787, 32vh 22vh #79553a, 2vh 24vh #966c4a, 4vh 24vh #79553a, 6vh 24vh #79553a, 8vh 24vh #966c4a, 10vh 24vh #966c4a, 12vh 24vh #b9855c, 14vh 24vh #79553a, 16vh 24vh #966c4a, 18vh 24vh #6c6c6c, 20vh 24vh #966c4a, 22vh 24vh #966c4a, 24vh 24vh #79553a, 26vh 24vh #593d29, 28vh 24vh #966c4a, 30vh 24vh #79553a, 32vh 24vh #593d29, 2vh 26vh #79553a, 4vh 26vh #593d29, 6vh 26vh #966c4a, 8vh 26vh #79553a, 10vh 26vh #966c4a, 12vh 26vh #966c4a, 14vh 26vh #b9855c, 16vh 26vh #79553a, 18vh 26vh #79553a, 20vh 26vh #79553a, 22vh 26vh #79553a, 24vh 26vh #79553a, 26vh 26vh #79553a, 28vh 26vh #79553a, 30vh 26vh #b9855c, 32vh 26vh #b9855c, 2vh 28vh #79553a, 4vh 28vh #966c4a, 6vh 28vh #79553a, 8vh 28vh #79553a, 10vh 28vh #745844, 12vh 28vh #79553a, 14vh 28vh #966c4a, 16vh 28vh #966c4a, 18vh 28vh #79553a, 20vh 28vh #593d29, 22vh 28vh #b9855c, 24vh 28vh #593d29, 26vh 28vh #79553a, 28vh 28vh #b9855c, 30vh 28vh #966c4a, 32vh 28vh #966c4a, 2vh 30vh #966c4a, 4vh 30vh #79553a, 6vh 30vh #593d29, 8vh 30vh #b9855c, 10vh 30vh #79553a, 12vh 30vh #593d29, 14vh 30vh #79553a, 16vh 30vh #593d29, 18vh 30vh #b9855c, 20vh 30vh #b9855c, 22vh 30vh #79553a, 24vh 30vh #966c4a, 26vh 30vh #79553a, 28vh 30vh #79553a, 30vh 30vh #966c4a, 32vh 30vh #966c4a, 2vh 32vh #966c4a, 4vh 32vh #79553a, 6vh 32vh #b9855c, 8vh 32vh #966c4a, 10vh 32vh #966c4a, 12vh 32vh #79553a, 14vh 32vh #878787, 16vh 32vh #79553a, 18vh 32vh #966c4a, 20vh 32vh #966c4a, 22vh 32vh #79553a, 24vh 32vh #79553a, 26vh 32vh #966c4a, 28vh 32vh #966c4a, 30vh 32vh #79553a, 32vh 32vh #593d29;
+}
+@media screen and (orientation: portrait) {
+    .grass-side {
+        box-shadow: 2vw 2vw #74b44a, 4vw 2vw #76b64c, 6vw 2vw #73b349, 8vw 2vw #66a63c, 10vw 2vw #66a63c, 12vw 2vw #6faf45, 14vw 2vw #5f9f35, 16vw 2vw #6cac42, 18vw 2vw #7ebe54, 20vw 2vw #76b64c, 22vw 2vw #6aaa40, 24vw 2vw #67a73d, 26vw 2vw #69a93f, 28vw 2vw #61a137, 30vw 2vw #509026, 32vw 2vw #6dad43, 2vw 4vw #75b54b, 4vw 4vw #6cac42, 6vw 4vw #8ab95a, 8vw 4vw #81b051, 10vw 4vw #83b253, 12vw 4vw #593d29, 14vw 4vw #68a83e, 16vw 4vw #62a238, 18vw 4vw #5f9f35, 20vw 4vw #93c263, 22vw 4vw #90bf60, 24vw 4vw #73b349, 26vw 4vw #61a137, 28vw 4vw #6cac42, 30vw 4vw #67a73d, 32vw 4vw #6bab41, 2vw 6vw #8dbc5d, 4vw 6vw #593d29, 6vw 6vw #9ccb6c, 8vw 6vw #64a43a, 10vw 6vw #69a93f, 12vw 6vw #593d29, 14vw 6vw #70b046, 16vw 6vw #593d29, 18vw 6vw #74b44a, 20vw 6vw #7fbf55, 22vw 6vw #92c162, 24vw 6vw #97c667, 26vw 6vw #593d29, 28vw 6vw #57972d, 30vw 6vw #60a036, 32vw 6vw #593d29, 2vw 8vw #593d29, 4vw 8vw #6c6c6c, 6vw 8vw #593d29, 8vw 8vw #593d29, 10vw 8vw #71b147, 12vw 8vw #593d29, 14vw 8vw #593d29, 16vw 8vw #593d29, 18vw 8vw #5f9f35, 20vw 8vw #593d29, 22vw 8vw #6dad43, 24vw 8vw #593d29, 26vw 8vw #79553a, 28vw 8vw #593d29, 30vw 8vw #593d29, 32vw 8vw #79553a, 2vw 10vw #966c4a, 4vw 10vw #79553a, 6vw 10vw #966c4a, 8vw 10vw #b9855c, 10vw 10vw #593d29, 12vw 10vw #966c4a, 14vw 10vw #79553a, 16vw 10vw #79553a, 18vw 10vw #593d29, 20vw 10vw #593d29, 22vw 10vw #593d29, 24vw 10vw #6c6c6c, 26vw 10vw #79553a, 28vw 10vw #966c4a, 30vw 10vw #593d29, 32vw 10vw #79553a, 2vw 12vw #79553a, 4vw 12vw #593d29, 6vw 12vw #966c4a, 8vw 12vw #966c4a, 10vw 12vw #79553a, 12vw 12vw #966c4a, 14vw 12vw #593d29, 16vw 12vw #593d29, 18vw 12vw #593d29, 20vw 12vw #79553a, 22vw 12vw #79553a, 24vw 12vw #593d29, 26vw 12vw #79553a, 28vw 12vw #79553a, 30vw 12vw #79553a, 32vw 12vw #b9855c, 2vw 14vw #b9855c, 4vw 14vw #79553a, 6vw 14vw #79553a, 8vw 14vw #79553a, 10vw 14vw #878787, 12vw 14vw #79553a, 14vw 14vw #79553a, 16vw 14vw #b9855c, 18vw 14vw #b9855c, 20vw 14vw #79553a, 22vw 14vw #b9855c, 24vw 14vw #b9855c, 26vw 14vw #79553a, 28vw 14vw #966c4a, 30vw 14vw #79553a, 32vw 14vw #966c4a, 2vw 16vw #79553a, 4vw 16vw #79553a, 6vw 16vw #b9855c, 8vw 16vw #b9855c, 10vw 16vw #966c4a, 12vw 16vw #966c4a, 14vw 16vw #79553a, 16vw 16vw #79553a, 18vw 16vw #966c4a, 20vw 16vw #593d29, 22vw 16vw #966c4a, 24vw 16vw #966c4a, 26vw 16vw #79553a, 28vw 16vw #79553a, 30vw 16vw #966c4a, 32vw 16vw #966c4a, 2vw 18vw #966c4a, 4vw 18vw #79553a, 6vw 18vw #79553a, 8vw 18vw #966c4a, 10vw 18vw #79553a, 12vw 18vw #966c4a, 14vw 18vw #79553a, 16vw 18vw #593d29, 18vw 18vw #79553a, 20vw 18vw #966c4a, 22vw 18vw #966c4a, 24vw 18vw #79553a, 26vw 18vw #79553a, 28vw 18vw #79553a, 30vw 18vw #593d29, 32vw 18vw #79553a, 2vw 20vw #79553a, 4vw 20vw #966c4a, 6vw 20vw #593d29, 8vw 20vw #79553a, 10vw 20vw #79553a, 12vw 20vw #593d29, 14vw 20vw #593d29, 16vw 20vw #79553a, 18vw 20vw #79553a, 20vw 20vw #79553a, 22vw 20vw #79553a, 24vw 20vw #79553a, 26vw 20vw #b9855c, 28vw 20vw #b9855c, 30vw 20vw #79553a, 32vw 20vw #966c4a, 2vw 22vw #79553a, 4vw 22vw #966c4a, 6vw 22vw #79553a, 8vw 22vw #b9855c, 10vw 22vw #b9855c, 12vw 22vw #79553a, 14vw 22vw #b9855c, 16vw 22vw #966c4a, 18vw 22vw #593d29, 20vw 22vw #b9855c, 22vw 22vw #b9855c, 24vw 22vw #593d29, 26vw 22vw #966c4a, 28vw 22vw #966c4a, 30vw 22vw #878787, 32vw 22vw #79553a, 2vw 24vw #966c4a, 4vw 24vw #79553a, 6vw 24vw #79553a, 8vw 24vw #966c4a, 10vw 24vw #966c4a, 12vw 24vw #b9855c, 14vw 24vw #79553a, 16vw 24vw #966c4a, 18vw 24vw #6c6c6c, 20vw 24vw #966c4a, 22vw 24vw #966c4a, 24vw 24vw #79553a, 26vw 24vw #593d29, 28vw 24vw #966c4a, 30vw 24vw #79553a, 32vw 24vw #593d29, 2vw 26vw #79553a, 4vw 26vw #593d29, 6vw 26vw #966c4a, 8vw 26vw #79553a, 10vw 26vw #966c4a, 12vw 26vw #966c4a, 14vw 26vw #b9855c, 16vw 26vw #79553a, 18vw 26vw #79553a, 20vw 26vw #79553a, 22vw 26vw #79553a, 24vw 26vw #79553a, 26vw 26vw #79553a, 28vw 26vw #79553a, 30vw 26vw #b9855c, 32vw 26vw #b9855c, 2vw 28vw #79553a, 4vw 28vw #966c4a, 6vw 28vw #79553a, 8vw 28vw #79553a, 10vw 28vw #745844, 12vw 28vw #79553a, 14vw 28vw #966c4a, 16vw 28vw #966c4a, 18vw 28vw #79553a, 20vw 28vw #593d29, 22vw 28vw #b9855c, 24vw 28vw #593d29, 26vw 28vw #79553a, 28vw 28vw #b9855c, 30vw 28vw #966c4a, 32vw 28vw #966c4a, 2vw 30vw #966c4a, 4vw 30vw #79553a, 6vw 30vw #593d29, 8vw 30vw #b9855c, 10vw 30vw #79553a, 12vw 30vw #593d29, 14vw 30vw #79553a, 16vw 30vw #593d29, 18vw 30vw #b9855c, 20vw 30vw #b9855c, 22vw 30vw #79553a, 24vw 30vw #966c4a, 26vw 30vw #79553a, 28vw 30vw #79553a, 30vw 30vw #966c4a, 32vw 30vw #966c4a, 2vw 32vw #966c4a, 4vw 32vw #79553a, 6vw 32vw #b9855c, 8vw 32vw #966c4a, 10vw 32vw #966c4a, 12vw 32vw #79553a, 14vw 32vw #878787, 16vw 32vw #79553a, 18vw 32vw #966c4a, 20vw 32vw #966c4a, 22vw 32vw #79553a, 24vw 32vw #79553a, 26vw 32vw #966c4a, 28vw 32vw #966c4a, 30vw 32vw #79553a, 32vw 32vw #593d29;
+    }
+}
+.dirt-side {
+    box-shadow: 2vh 2vh #b9855c, 4vh 2vh #966c4a, 6vh 2vh #966c4a, 8vh 2vh #79553a, 10vh 2vh #79553a, 12vh 2vh #b9855c, 14vh 2vh #966c4a, 16vh 2vh #966c4a, 18vh 2vh #79553a, 20vh 2vh #79553a, 22vh 2vh #593d29, 24vh 2vh #79553a, 26vh 2vh #79553a, 28vh 2vh #b9855c, 30vh 2vh #79553a, 32vh 2vh #b9855c, 2vh 4vh #79553a, 4vh 4vh #966c4a, 6vh 4vh #593d29, 8vh 4vh #79553a, 10vh 4vh #79553a, 12vh 4vh #966c4a, 14vh 4vh #878787, 16vh 4vh #593d29, 18vh 4vh #79553a, 20vh 4vh #b9855c, 22vh 4vh #966c4a, 24vh 4vh #79553a, 26vh 4vh #b9855c, 28vh 4vh #966c4a, 30vh 4vh #593d29, 32vh 4vh #593d29, 2vh 6vh #b9855c, 4vh 6vh #79553a, 6vh 6vh #79553a, 8vh 6vh #593d29, 10vh 6vh #b9855c, 12vh 6vh #79553a, 14vh 6vh #79553a, 16vh 6vh #79553a, 18vh 6vh #b9855c, 20vh 6vh #79553a, 22vh 6vh #79553a, 24vh 6vh #79553a, 26vh 6vh #593d29, 28vh 6vh #593d29, 30vh 6vh #b9855c, 32vh 6vh #79553a, 2vh 8vh #966c4a, 4vh 8vh #6c6c6c, 6vh 8vh #b9855c, 8vh 8vh #79553a, 10vh 8vh #966c4a, 12vh 8vh #593d29, 14vh 8vh #79553a, 16vh 8vh #b9855c, 18vh 8vh #966c4a, 20vh 8vh #966c4a, 22vh 8vh #79553a, 24vh 8vh #966c4a, 26vh 8vh #79553a, 28vh 8vh #b9855c, 30vh 8vh #966c4a, 32vh 8vh #79553a, 2vh 10vh #966c4a, 4vh 10vh #79553a, 6vh 10vh #966c4a, 8vh 10vh #b9855c, 10vh 10vh #593d29, 12vh 10vh #966c4a, 14vh 10vh #79553a, 16vh 10vh #79553a, 18vh 10vh #966c4a, 20vh 10vh #593d29, 22vh 10vh #79553a, 24vh 10vh #6c6c6c, 26vh 10vh #79553a, 28vh 10vh #966c4a, 30vh 10vh #593d29, 32vh 10vh #79553a, 2vh 12vh #79553a, 4vh 12vh #593d29, 6vh 12vh #966c4a, 8vh 12vh #966c4a, 10vh 12vh #79553a, 12vh 12vh #966c4a, 14vh 12vh #593d29, 16vh 12vh #593d29, 18vh 12vh #593d29, 20vh 12vh #79553a, 22vh 12vh #79553a, 24vh 12vh #593d29, 26vh 12vh #79553a, 28vh 12vh #79553a, 30vh 12vh #79553a, 32vh 12vh #b9855c, 2vh 14vh #b9855c, 4vh 14vh #79553a, 6vh 14vh #79553a, 8vh 14vh #79553a, 10vh 14vh #878787, 12vh 14vh #79553a, 14vh 14vh #79553a, 16vh 14vh #b9855c, 18vh 14vh #b9855c, 20vh 14vh #79553a, 22vh 14vh #b9855c, 24vh 14vh #b9855c, 26vh 14vh #79553a, 28vh 14vh #966c4a, 30vh 14vh #79553a, 32vh 14vh #966c4a, 2vh 16vh #79553a, 4vh 16vh #79553a, 6vh 16vh #b9855c, 8vh 16vh #b9855c, 10vh 16vh #966c4a, 12vh 16vh #966c4a, 14vh 16vh #79553a, 16vh 16vh #79553a, 18vh 16vh #966c4a, 20vh 16vh #593d29, 22vh 16vh #966c4a, 24vh 16vh #966c4a, 26vh 16vh #79553a, 28vh 16vh #79553a, 30vh 16vh #966c4a, 32vh 16vh #966c4a, 2vh 18vh #966c4a, 4vh 18vh #79553a, 6vh 18vh #79553a, 8vh 18vh #966c4a, 10vh 18vh #79553a, 12vh 18vh #966c4a, 14vh 18vh #79553a, 16vh 18vh #593d29, 18vh 18vh #79553a, 20vh 18vh #966c4a, 22vh 18vh #966c4a, 24vh 18vh #79553a, 26vh 18vh #79553a, 28vh 18vh #79553a, 30vh 18vh #593d29, 32vh 18vh #79553a, 2vh 20vh #79553a, 4vh 20vh #966c4a, 6vh 20vh #593d29, 8vh 20vh #79553a, 10vh 20vh #79553a, 12vh 20vh #593d29, 14vh 20vh #593d29, 16vh 20vh #79553a, 18vh 20vh #79553a, 20vh 20vh #79553a, 22vh 20vh #79553a, 24vh 20vh #79553a, 26vh 20vh #b9855c, 28vh 20vh #b9855c, 30vh 20vh #79553a, 32vh 20vh #966c4a, 2vh 22vh #79553a, 4vh 22vh #966c4a, 6vh 22vh #79553a, 8vh 22vh #b9855c, 10vh 22vh #b9855c, 12vh 22vh #79553a, 14vh 22vh #b9855c, 16vh 22vh #966c4a, 18vh 22vh #593d29, 20vh 22vh #b9855c, 22vh 22vh #b9855c, 24vh 22vh #593d29, 26vh 22vh #966c4a, 28vh 22vh #966c4a, 30vh 22vh #878787, 32vh 22vh #79553a, 2vh 24vh #966c4a, 4vh 24vh #79553a, 6vh 24vh #79553a, 8vh 24vh #966c4a, 10vh 24vh #966c4a, 12vh 24vh #b9855c, 14vh 24vh #79553a, 16vh 24vh #966c4a, 18vh 24vh #6c6c6c, 20vh 24vh #966c4a, 22vh 24vh #966c4a, 24vh 24vh #79553a, 26vh 24vh #593d29, 28vh 24vh #966c4a, 30vh 24vh #79553a, 32vh 24vh #593d29, 2vh 26vh #79553a, 4vh 26vh #593d29, 6vh 26vh #966c4a, 8vh 26vh #79553a, 10vh 26vh #966c4a, 12vh 26vh #966c4a, 14vh 26vh #b9855c, 16vh 26vh #79553a, 18vh 26vh #79553a, 20vh 26vh #79553a, 22vh 26vh #79553a, 24vh 26vh #79553a, 26vh 26vh #79553a, 28vh 26vh #79553a, 30vh 26vh #b9855c, 32vh 26vh #b9855c, 2vh 28vh #79553a, 4vh 28vh #966c4a, 6vh 28vh #79553a, 8vh 28vh #79553a, 10vh 28vh #745844, 12vh 28vh #79553a, 14vh 28vh #966c4a, 16vh 28vh #966c4a, 18vh 28vh #79553a, 20vh 28vh #593d29, 22vh 28vh #b9855c, 24vh 28vh #593d29, 26vh 28vh #79553a, 28vh 28vh #b9855c, 30vh 28vh #966c4a, 32vh 28vh #966c4a, 2vh 30vh #966c4a, 4vh 30vh #79553a, 6vh 30vh #593d29, 8vh 30vh #b9855c, 10vh 30vh #79553a, 12vh 30vh #593d29, 14vh 30vh #79553a, 16vh 30vh #593d29, 18vh 30vh #b9855c, 20vh 30vh #b9855c, 22vh 30vh #79553a, 24vh 30vh #966c4a, 26vh 30vh #79553a, 28vh 30vh #79553a, 30vh 30vh #966c4a, 32vh 30vh #966c4a, 2vh 32vh #966c4a, 4vh 32vh #79553a, 6vh 32vh #b9855c, 8vh 32vh #966c4a, 10vh 32vh #966c4a, 12vh 32vh #79553a, 14vh 32vh #878787, 16vh 32vh #79553a, 18vh 32vh #966c4a, 20vh 32vh #966c4a, 22vh 32vh #79553a, 24vh 32vh #79553a, 26vh 32vh #966c4a, 28vh 32vh #966c4a, 30vh 32vh #79553a, 32vh 32vh #593d29;
+}
+@media screen and (orientation: portrait) {
+    .dirt-side {
+        box-shadow: 2vw 2vw #b9855c, 4vw 2vw #966c4a, 6vw 2vw #966c4a, 8vw 2vw #79553a, 10vw 2vw #79553a, 12vw 2vw #b9855c, 14vw 2vw #966c4a, 16vw 2vw #966c4a, 18vw 2vw #79553a, 20vw 2vw #79553a, 22vw 2vw #593d29, 24vw 2vw #79553a, 26vw 2vw #79553a, 28vw 2vw #b9855c, 30vw 2vw #79553a, 32vw 2vw #b9855c, 2vw 4vw #79553a, 4vw 4vw #966c4a, 6vw 4vw #593d29, 8vw 4vw #79553a, 10vw 4vw #79553a, 12vw 4vw #966c4a, 14vw 4vw #878787, 16vw 4vw #593d29, 18vw 4vw #79553a, 20vw 4vw #b9855c, 22vw 4vw #966c4a, 24vw 4vw #79553a, 26vw 4vw #b9855c, 28vw 4vw #966c4a, 30vw 4vw #593d29, 32vw 4vw #593d29, 2vw 6vw #b9855c, 4vw 6vw #79553a, 6vw 6vw #79553a, 8vw 6vw #593d29, 10vw 6vw #b9855c, 12vw 6vw #79553a, 14vw 6vw #79553a, 16vw 6vw #79553a, 18vw 6vw #b9855c, 20vw 6vw #79553a, 22vw 6vw #79553a, 24vw 6vw #79553a, 26vw 6vw #593d29, 28vw 6vw #593d29, 30vw 6vw #b9855c, 32vw 6vw #79553a, 2vw 8vw #966c4a, 4vw 8vw #6c6c6c, 6vw 8vw #b9855c, 8vw 8vw #79553a, 10vw 8vw #966c4a, 12vw 8vw #593d29, 14vw 8vw #79553a, 16vw 8vw #b9855c, 18vw 8vw #966c4a, 20vw 8vw #966c4a, 22vw 8vw #79553a, 24vw 8vw #966c4a, 26vw 8vw #79553a, 28vw 8vw #b9855c, 30vw 8vw #966c4a, 32vw 8vw #79553a, 2vw 10vw #966c4a, 4vw 10vw #79553a, 6vw 10vw #966c4a, 8vw 10vw #b9855c, 10vw 10vw #593d29, 12vw 10vw #966c4a, 14vw 10vw #79553a, 16vw 10vw #79553a, 18vw 10vw #966c4a, 20vw 10vw #593d29, 22vw 10vw #79553a, 24vw 10vw #6c6c6c, 26vw 10vw #79553a, 28vw 10vw #966c4a, 30vw 10vw #593d29, 32vw 10vw #79553a, 2vw 12vw #79553a, 4vw 12vw #593d29, 6vw 12vw #966c4a, 8vw 12vw #966c4a, 10vw 12vw #79553a, 12vw 12vw #966c4a, 14vw 12vw #593d29, 16vw 12vw #593d29, 18vw 12vw #593d29, 20vw 12vw #79553a, 22vw 12vw #79553a, 24vw 12vw #593d29, 26vw 12vw #79553a, 28vw 12vw #79553a, 30vw 12vw #79553a, 32vw 12vw #b9855c, 2vw 14vw #b9855c, 4vw 14vw #79553a, 6vw 14vw #79553a, 8vw 14vw #79553a, 10vw 14vw #878787, 12vw 14vw #79553a, 14vw 14vw #79553a, 16vw 14vw #b9855c, 18vw 14vw #b9855c, 20vw 14vw #79553a, 22vw 14vw #b9855c, 24vw 14vw #b9855c, 26vw 14vw #79553a, 28vw 14vw #966c4a, 30vw 14vw #79553a, 32vw 14vw #966c4a, 2vw 16vw #79553a, 4vw 16vw #79553a, 6vw 16vw #b9855c, 8vw 16vw #b9855c, 10vw 16vw #966c4a, 12vw 16vw #966c4a, 14vw 16vw #79553a, 16vw 16vw #79553a, 18vw 16vw #966c4a, 20vw 16vw #593d29, 22vw 16vw #966c4a, 24vw 16vw #966c4a, 26vw 16vw #79553a, 28vw 16vw #79553a, 30vw 16vw #966c4a, 32vw 16vw #966c4a, 2vw 18vw #966c4a, 4vw 18vw #79553a, 6vw 18vw #79553a, 8vw 18vw #966c4a, 10vw 18vw #79553a, 12vw 18vw #966c4a, 14vw 18vw #79553a, 16vw 18vw #593d29, 18vw 18vw #79553a, 20vw 18vw #966c4a, 22vw 18vw #966c4a, 24vw 18vw #79553a, 26vw 18vw #79553a, 28vw 18vw #79553a, 30vw 18vw #593d29, 32vw 18vw #79553a, 2vw 20vw #79553a, 4vw 20vw #966c4a, 6vw 20vw #593d29, 8vw 20vw #79553a, 10vw 20vw #79553a, 12vw 20vw #593d29, 14vw 20vw #593d29, 16vw 20vw #79553a, 18vw 20vw #79553a, 20vw 20vw #79553a, 22vw 20vw #79553a, 24vw 20vw #79553a, 26vw 20vw #b9855c, 28vw 20vw #b9855c, 30vw 20vw #79553a, 32vw 20vw #966c4a, 2vw 22vw #79553a, 4vw 22vw #966c4a, 6vw 22vw #79553a, 8vw 22vw #b9855c, 10vw 22vw #b9855c, 12vw 22vw #79553a, 14vw 22vw #b9855c, 16vw 22vw #966c4a, 18vw 22vw #593d29, 20vw 22vw #b9855c, 22vw 22vw #b9855c, 24vw 22vw #593d29, 26vw 22vw #966c4a, 28vw 22vw #966c4a, 30vw 22vw #878787, 32vw 22vw #79553a, 2vw 24vw #966c4a, 4vw 24vw #79553a, 6vw 24vw #79553a, 8vw 24vw #966c4a, 10vw 24vw #966c4a, 12vw 24vw #b9855c, 14vw 24vw #79553a, 16vw 24vw #966c4a, 18vw 24vw #6c6c6c, 20vw 24vw #966c4a, 22vw 24vw #966c4a, 24vw 24vw #79553a, 26vw 24vw #593d29, 28vw 24vw #966c4a, 30vw 24vw #79553a, 32vw 24vw #593d29, 2vw 26vw #79553a, 4vw 26vw #593d29, 6vw 26vw #966c4a, 8vw 26vw #79553a, 10vw 26vw #966c4a, 12vw 26vw #966c4a, 14vw 26vw #b9855c, 16vw 26vw #79553a, 18vw 26vw #79553a, 20vw 26vw #79553a, 22vw 26vw #79553a, 24vw 26vw #79553a, 26vw 26vw #79553a, 28vw 26vw #79553a, 30vw 26vw #b9855c, 32vw 26vw #b9855c, 2vw 28vw #79553a, 4vw 28vw #966c4a, 6vw 28vw #79553a, 8vw 28vw #79553a, 10vw 28vw #745844, 12vw 28vw #79553a, 14vw 28vw #966c4a, 16vw 28vw #966c4a, 18vw 28vw #79553a, 20vw 28vw #593d29, 22vw 28vw #b9855c, 24vw 28vw #593d29, 26vw 28vw #79553a, 28vw 28vw #b9855c, 30vw 28vw #966c4a, 32vw 28vw #966c4a, 2vw 30vw #966c4a, 4vw 30vw #79553a, 6vw 30vw #593d29, 8vw 30vw #b9855c, 10vw 30vw #79553a, 12vw 30vw #593d29, 14vw 30vw #79553a, 16vw 30vw #593d29, 18vw 30vw #b9855c, 20vw 30vw #b9855c, 22vw 30vw #79553a, 24vw 30vw #966c4a, 26vw 30vw #79553a, 28vw 30vw #79553a, 30vw 30vw #966c4a, 32vw 30vw #966c4a, 2vw 32vw #966c4a, 4vw 32vw #79553a, 6vw 32vw #b9855c, 8vw 32vw #966c4a, 10vw 32vw #966c4a, 12vw 32vw #79553a, 14vw 32vw #878787, 16vw 32vw #79553a, 18vw 32vw #966c4a, 20vw 32vw #966c4a, 22vw 32vw #79553a, 24vw 32vw #79553a, 26vw 32vw #966c4a, 28vw 32vw #966c4a, 30vw 32vw #79553a, 32vw 32vw #593d29;
+    }
+}
+.surface {
+    transform: translateZ(36vh);
+    top: -192vh;
+    left: -192vh;
+}
+@media screen and (orientation: portrait) {
+    .surface {
+        transform: translateZ(36vw);
+        top: -192vw;
+        left: -192vw;
+    }
+}
+.surface > div {
+    display: flex;
+}
+.surface > div:nth-child(1) {
+    top: 0vh;
+}
+.surface > div:nth-child(2) {
+    top: 32vh;
+}
+.surface > div:nth-child(3) {
+    top: 64vh;
+}
+.surface > div:nth-child(4) {
+    top: 96vh;
+}
+.surface > div:nth-child(5) {
+    top: 128vh;
+}
+.surface > div:nth-child(6) {
+    top: 160vh;
+}
+.surface > div:nth-child(7) {
+    top: 192vh;
+}
+.surface > div:nth-child(8) {
+    top: 224vh;
+}
+.surface > div:nth-child(9) {
+    top: 256vh;
+}
+.surface > div:nth-child(10) {
+    top: 288vh;
+}
+.surface > div:nth-child(11) {
+    top: 320vh;
+}
+.surface > div:nth-child(12) {
+    top: 352vh;
+}
+.surface > div > div {
+    height: 2vh;
+    width: 2vh;
+    top: -2vh;
+}
+.surface > div > div:nth-child(1) {
+    left: -2vh;
+}
+.surface > div > div:nth-child(2) {
+    left: 30vh;
+}
+.surface > div > div:nth-child(3) {
+    left: 62vh;
+}
+.surface > div > div:nth-child(4) {
+    left: 94vh;
+}
+.surface > div > div:nth-child(5) {
+    left: 126vh;
+}
+.surface > div > div:nth-child(6) {
+    left: 158vh;
+}
+.surface > div > div:nth-child(7) {
+    left: 190vh;
+}
+.surface > div > div:nth-child(8) {
+    left: 222vh;
+}
+.surface > div > div:nth-child(9) {
+    left: 254vh;
+}
+.surface > div > div:nth-child(10) {
+    left: 286vh;
+}
+.surface > div > div:nth-child(11) {
+    left: 318vh;
+}
+.surface > div > div:nth-child(12) {
+    left: 350vh;
+}
+@media screen and (orientation: portrait) {
+    .surface > div:nth-child(1) {
+        top: 0vw;
+    }
+    .surface > div:nth-child(2) {
+        top: 32vw;
+    }
+    .surface > div:nth-child(3) {
+        top: 64vw;
+    }
+    .surface > div:nth-child(4) {
+        top: 96vw;
+    }
+    .surface > div:nth-child(5) {
+        top: 128vw;
+    }
+    .surface > div:nth-child(6) {
+        top: 160vw;
+    }
+    .surface > div:nth-child(7) {
+        top: 192vw;
+    }
+    .surface > div:nth-child(8) {
+        top: 224vw;
+    }
+    .surface > div:nth-child(9) {
+        top: 256vw;
+    }
+    .surface > div:nth-child(10) {
+        top: 288vw;
+    }
+    .surface > div:nth-child(11) {
+        top: 320vw;
+    }
+    .surface > div:nth-child(12) {
+        top: 352vw;
+    }
+    .surface > div > div {
+        height: 2vw;
+        width: 2vw;
+        top: -2vw;
+    }
+    .surface > div > div:nth-child(1) {
+        left: -2vw;
+    }
+    .surface > div > div:nth-child(2) {
+        left: 30vw;
+    }
+    .surface > div > div:nth-child(3) {
+        left: 62vw;
+    }
+    .surface > div > div:nth-child(4) {
+        left: 94vw;
+    }
+    .surface > div > div:nth-child(5) {
+        left: 126vw;
+    }
+    .surface > div > div:nth-child(6) {
+        left: 158vw;
+    }
+    .surface > div > div:nth-child(7) {
+        left: 190vw;
+    }
+    .surface > div > div:nth-child(8) {
+        left: 222vw;
+    }
+    .surface > div > div:nth-child(9) {
+        left: 254vw;
+    }
+    .surface > div > div:nth-child(10) {
+        left: 286vw;
+    }
+    .surface > div > div:nth-child(11) {
+        left: 318vw;
+    }
+    .surface > div > div:nth-child(12) {
+        left: 350vw;
+    }
+}
+.grass-block:nth-child(1) {
+    transform: translateX(112vh) translateY(20vh) translateZ(-144vh);
+}
+.grass-block:nth-child(2) {
+    transform: translateX(80vh) translateY(-12vh) translateZ(-144vh);
+}
+.grass-block:nth-child(3) {
+    transform: translateX(48vh) translateY(20vh) translateZ(-144vh);
+}
+.grass-block:nth-child(4) {
+    transform: translateX(48vh) translateY(-44vh) translateZ(-176vh);
+}
+.grass-block:nth-child(5) {
+    transform: translateX(16vh) translateY(-76vh) translateZ(-176vh);
+}
+.grass-block:nth-child(6) {
+    transform: translateX(16vh) translateY(20vh) translateZ(-144vh);
+}
+.grass-block:nth-child(7) {
+    transform: translateX(-16vh) translateY(20vh) translateZ(-144vh);
+}
+.grass-block:nth-child(8) {
+    transform: translateX(-16vh) translateY(-12vh) translateZ(-176vh);
+}
+.grass-block:nth-child(9) {
+    transform: translateX(-48vh) translateY(-12vh) translateZ(-144vh);
+}
+.grass-block:nth-child(10) {
+    transform: translateX(-80vh) translateY(20vh) translateZ(-112vh);
+}
+.grass-block:nth-child(11) {
+    transform: translateX(-112vh) translateY(20vh) translateZ(-112vh);
+}
+.grass-block:nth-child(12) {
+    transform: translateX(-144vh) translateY(20vh) translateZ(-112vh);
+}
+.grass-block:nth-child(13) {
+    transform: translateX(-176vh) translateY(-12vh) translateZ(-80vh);
+}
+.grass-block:nth-child(14) {
+    transform: translateX(-144vh) translateY(20vh) translateZ(-48vh);
+}
+.grass-block:nth-child(15) {
+    transform: translateX(-144vh) translateY(20vh) translateZ(-16vh);
+}
+.grass-block:nth-child(16) {
+    transform: translateX(-176vh) translateY(-12vh) translateZ(16vh);
+}
+.grass-block:nth-child(17) {
+    transform: translateX(-176vh) translateY(-12vh) translateZ(48vh);
+}
+.grass-block:nth-child(18) {
+    transform: translateX(-176vh) translateY(-12vh) translateZ(80vh);
+}
+.grass-block:nth-child(19) {
+    transform: translateX(-144vh) translateY(20vh) translateZ(112vh);
+}
+.grass-block:nth-child(20) {
+    transform: translateX(-144vh) translateY(20vh) translateZ(144vh);
+}
+.grass-block:nth-child(21) {
+    transform: translateX(-176vh) translateY(20vh) translateZ(144vh);
+}
+.grass-block:nth-child(22) {
+    transform: translateX(-176vh) translateY(-12vh) translateZ(176vh);
+}
+.grass-block:nth-child(23) {
+    transform: translateX(-144vh) translateY(20vh) translateZ(176vh);
+}
+.grass-block:nth-child(24) {
+    transform: translateX(-112vh) translateY(20vh) translateZ(176vh);
+}
+.grass-block:nth-child(25) {
+    transform: translateX(-80vh) translateY(20vh) translateZ(176vh);
+}
+.grass-block:nth-child(26) {
+    transform: translateX(-48vh) translateY(20vh) translateZ(208vh);
+}
+.grass-block:nth-child(27) {
+    transform: translateX(-16vh) translateY(20vh) translateZ(208vh);
+}
+.grass-block:nth-child(28) {
+    transform: translateX(208vh) translateY(-12vh) translateZ(-80vh);
+}
+.grass-block:nth-child(29) {
+    transform: translateX(208vh) translateY(20vh) translateZ(-48vh);
+}
+.grass-block:nth-child(30) {
+    transform: translateX(208vh) translateY(20vh) translateZ(-16vh);
+}
+.grass-block:nth-child(31) {
+    transform: translateX(208vh) translateY(-12vh) translateZ(16vh);
+}
+.grass-block:nth-child(32) {
+    transform: translateX(208vh) translateY(-12vh) translateZ(48vh);
+}
+.grass-block:nth-child(33) {
+    transform: translateX(208vh) translateY(-12vh) translateZ(80vh);
+}
+.grass-block:nth-child(34) {
+    transform: translateX(208vh) translateY(20vh) translateZ(112vh);
+}
+.grass-block:nth-child(35) {
+    transform: translateX(208vh) translateY(20vh) translateZ(144vh);
+}
+.grass-block:nth-child(36) {
+    transform: translateX(208vh) translateY(20vh) translateZ(144vh);
+}
+.grass-block:nth-child(37) {
+    transform: translateX(208vh) translateY(-12vh) translateZ(208vh);
+}
+.grass-block:nth-child(38) {
+    transform: translateX(176vh) translateY(20vh) translateZ(208vh);
+}
+.grass-block:nth-child(39) {
+    transform: translateX(144vh) translateY(20vh) translateZ(208vh);
+}
+.grass-block:nth-child(40) {
+    transform: translateX(112vh) translateY(20vh) translateZ(208vh);
+}
+.grass-block:nth-child(41) {
+    transform: translateX(80vh) translateY(20vh) translateZ(208vh);
+}
+.grass-block:nth-child(42) {
+    transform: translateX(48vh) translateY(20vh) translateZ(208vh);
+}
+.grass-block:nth-child(43) {
+    transform: translateX(16vh) translateY(20vh) translateZ(208vh);
+}
+.grass-block:nth-child(44) {
+    transform: translateX(208vh) translateY(20vh) translateZ(176vh);
+}
+.grass-block:nth-child(45) {
+    transform: translateX(208vh) translateY(20vh) translateZ(-112vh);
+}
+.grass-block:nth-child(46) {
+    transform: translateX(208vh) translateY(20vh) translateZ(-144vh);
+}
+.grass-block:nth-child(47) {
+    transform: translateX(176vh) translateY(20vh) translateZ(-176vh);
+}
+.grass-block:nth-child(48) {
+    transform: translateX(144vh) translateY(-12vh) translateZ(-176vh);
+}
+.grass-block:nth-child(49) {
+    transform: translateX(144vh) translateY(20vh) translateZ(176vh);
+}
+.grass-block:nth-child(50) {
+    transform: translateX(176vh) translateY(20vh) translateZ(176vh);
+}
+@media screen and (orientation: portrait) {
+    .grass-block:nth-child(1) {
+        transform: translateX(112vw) translateY(20vw) translateZ(-144vw);
+    }
+    .grass-block:nth-child(2) {
+        transform: translateX(80vw) translateY(-12vw) translateZ(-144vw);
+    }
+    .grass-block:nth-child(3) {
+        transform: translateX(48vw) translateY(20vw) translateZ(-144vw);
+    }
+    .grass-block:nth-child(4) {
+        transform: translateX(48vw) translateY(-44vw) translateZ(-176vw);
+    }
+    .grass-block:nth-child(5) {
+        transform: translateX(16vw) translateY(-76vw) translateZ(-176vw);
+    }
+    .grass-block:nth-child(6) {
+        transform: translateX(16vw) translateY(20vw) translateZ(-144vw);
+    }
+    .grass-block:nth-child(7) {
+        transform: translateX(-16vw) translateY(20vw) translateZ(-144vw);
+    }
+    .grass-block:nth-child(8) {
+        transform: translateX(-16vw) translateY(-12vw) translateZ(-176vw);
+    }
+    .grass-block:nth-child(9) {
+        transform: translateX(-48vw) translateY(-12vw) translateZ(-144vw);
+    }
+    .grass-block:nth-child(10) {
+        transform: translateX(-80vw) translateY(20vw) translateZ(-112vw);
+    }
+    .grass-block:nth-child(11) {
+        transform: translateX(-112vw) translateY(20vw) translateZ(-112vw);
+    }
+    .grass-block:nth-child(12) {
+        transform: translateX(-144vw) translateY(20vw) translateZ(-112vw);
+    }
+    .grass-block:nth-child(13) {
+        transform: translateX(-176vw) translateY(-12vw) translateZ(-80vw);
+    }
+    .grass-block:nth-child(14) {
+        transform: translateX(-144vw) translateY(20vw) translateZ(-48vw);
+    }
+    .grass-block:nth-child(15) {
+        transform: translateX(-144vw) translateY(20vw) translateZ(-16vw);
+    }
+    .grass-block:nth-child(16) {
+        transform: translateX(-176vw) translateY(-12vw) translateZ(16vw);
+    }
+    .grass-block:nth-child(17) {
+        transform: translateX(-176vw) translateY(-12vw) translateZ(48vw);
+    }
+    .grass-block:nth-child(18) {
+        transform: translateX(-176vw) translateY(-12vw) translateZ(80vw);
+    }
+    .grass-block:nth-child(19) {
+        transform: translateX(-144vw) translateY(20vw) translateZ(112vw);
+    }
+    .grass-block:nth-child(20) {
+        transform: translateX(-144vw) translateY(20vw) translateZ(144vw);
+    }
+    .grass-block:nth-child(21) {
+        transform: translateX(-176vw) translateY(20vw) translateZ(144vw);
+    }
+    .grass-block:nth-child(22) {
+        transform: translateX(-176vw) translateY(-12vw) translateZ(176vw);
+    }
+    .grass-block:nth-child(23) {
+        transform: translateX(-144vw) translateY(20vw) translateZ(176vw);
+    }
+    .grass-block:nth-child(24) {
+        transform: translateX(-112vw) translateY(20vw) translateZ(176vw);
+    }
+    .grass-block:nth-child(25) {
+        transform: translateX(-80vw) translateY(20vw) translateZ(176vw);
+    }
+    .grass-block:nth-child(26) {
+        transform: translateX(-48vw) translateY(20vw) translateZ(208vw);
+    }
+    .grass-block:nth-child(27) {
+        transform: translateX(-16vw) translateY(20vw) translateZ(208vw);
+    }
+    .grass-block:nth-child(28) {
+        transform: translateX(208vw) translateY(-12vw) translateZ(-80vw);
+    }
+    .grass-block:nth-child(29) {
+        transform: translateX(208vw) translateY(20vw) translateZ(-48vw);
+    }
+    .grass-block:nth-child(30) {
+        transform: translateX(208vw) translateY(20vw) translateZ(-16vw);
+    }
+    .grass-block:nth-child(31) {
+        transform: translateX(208vw) translateY(-12vw) translateZ(16vw);
+    }
+    .grass-block:nth-child(32) {
+        transform: translateX(208vw) translateY(-12vw) translateZ(48vw);
+    }
+    .grass-block:nth-child(33) {
+        transform: translateX(208vw) translateY(-12vw) translateZ(80vw);
+    }
+    .grass-block:nth-child(34) {
+        transform: translateX(208vw) translateY(20vw) translateZ(112vw);
+    }
+    .grass-block:nth-child(35) {
+        transform: translateX(208vw) translateY(20vw) translateZ(144vw);
+    }
+    .grass-block:nth-child(36) {
+        transform: translateX(208vw) translateY(20vw) translateZ(144vw);
+    }
+    .grass-block:nth-child(37) {
+        transform: translateX(208vw) translateY(-12vw) translateZ(208vw);
+    }
+    .grass-block:nth-child(38) {
+        transform: translateX(176vw) translateY(20vw) translateZ(208vw);
+    }
+    .grass-block:nth-child(39) {
+        transform: translateX(144vw) translateY(20vw) translateZ(208vw);
+    }
+    .grass-block:nth-child(40) {
+        transform: translateX(112vw) translateY(20vw) translateZ(208vw);
+    }
+    .grass-block:nth-child(41) {
+        transform: translateX(80vw) translateY(20vw) translateZ(208vw);
+    }
+    .grass-block:nth-child(42) {
+        transform: translateX(48vw) translateY(20vw) translateZ(208vw);
+    }
+    .grass-block:nth-child(43) {
+        transform: translateX(16vw) translateY(20vw) translateZ(208vw);
+    }
+    .grass-block:nth-child(44) {
+        transform: translateX(208vw) translateY(20vw) translateZ(176vw);
+    }
+    .grass-block:nth-child(45) {
+        transform: translateX(208vw) translateY(20vw) translateZ(-112vw);
+    }
+    .grass-block:nth-child(46) {
+        transform: translateX(208vw) translateY(20vw) translateZ(-144vw);
+    }
+    .grass-block:nth-child(47) {
+        transform: translateX(176vw) translateY(20vw) translateZ(-176vw);
+    }
+    .grass-block:nth-child(48) {
+        transform: translateX(144vw) translateY(-12vw) translateZ(-176vw);
+    }
+    .grass-block:nth-child(49) {
+        transform: translateX(144vw) translateY(20vw) translateZ(176vw);
+    }
+    .grass-block:nth-child(50) {
+        transform: translateX(176vw) translateY(20vw) translateZ(176vw);
+    }
+}
+.dirt-block:nth-child(1) {
+    transform: translateX(80vh) translateY(20vh) translateZ(-144vh);
+}
+.dirt-block:nth-child(2) {
+    transform: translateX(48vh) translateY(-12vh) translateZ(-176vh);
+}
+.dirt-block:nth-child(3) {
+    transform: translateX(16vh) translateY(-12vh) translateZ(-176vh);
+}
+.dirt-block:nth-child(4) {
+    transform: translateX(16vh) translateY(-44vh) translateZ(-176vh);
+}
+.dirt-block:nth-child(5) {
+    transform: translateX(-48vh) translateY(20vh) translateZ(-144vh);
+}
+.dirt-block:nth-child(6) {
+    transform: translateX(-176vh) translateY(20vh) translateZ(-80vh);
+}
+.dirt-block:nth-child(7) {
+    transform: translateX(208vh) translateY(20vh) translateZ(-80vh);
+}
+.dirt-block:nth-child(8) {
+    transform: translateX(208vh) translateY(20vh) translateZ(16vh);
+}
+.dirt-block:nth-child(9) {
+    transform: translateX(208vh) translateY(20vh) translateZ(48vh);
+}
+.dirt-block:nth-child(10) {
+    transform: translateX(208vh) translateY(20vh) translateZ(80vh);
+}
+.dirt-block:nth-child(11) {
+    transform: translateX(-176vh) translateY(20vh) translateZ(16vh);
+}
+.dirt-block:nth-child(12) {
+    transform: translateX(-176vh) translateY(20vh) translateZ(48vh);
+}
+.dirt-block:nth-child(13) {
+    transform: translateX(-176vh) translateY(20vh) translateZ(80vh);
+}
+.dirt-block:nth-child(14) {
+    transform: translateX(144vh) translateY(20vh) translateZ(-176vh);
+}
+@media screen and (orientation: portrait) {
+    .dirt-block:nth-child(1) {
+        transform: translateX(80vw) translateY(20vw) translateZ(-144vw);
+    }
+    .dirt-block:nth-child(2) {
+        transform: translateX(48vw) translateY(-12vw) translateZ(-176vw);
+    }
+    .dirt-block:nth-child(3) {
+        transform: translateX(16vw) translateY(-12vw) translateZ(-176vw);
+    }
+    .dirt-block:nth-child(4) {
+        transform: translateX(16vw) translateY(-44vw) translateZ(-176vw);
+    }
+    .dirt-block:nth-child(5) {
+        transform: translateX(-48vw) translateY(20vw) translateZ(-144vw);
+    }
+    .dirt-block:nth-child(6) {
+        transform: translateX(-176vw) translateY(20vw) translateZ(-80vw);
+    }
+    .dirt-block:nth-child(7) {
+        transform: translateX(208vw) translateY(20vw) translateZ(-80vw);
+    }
+    .dirt-block:nth-child(8) {
+        transform: translateX(208vw) translateY(20vw) translateZ(16vw);
+    }
+    .dirt-block:nth-child(9) {
+        transform: translateX(208vw) translateY(20vw) translateZ(48vw);
+    }
+    .dirt-block:nth-child(10) {
+        transform: translateX(208vw) translateY(20vw) translateZ(80vw);
+    }
+    .dirt-block:nth-child(11) {
+        transform: translateX(-176vw) translateY(20vw) translateZ(16vw);
+    }
+    .dirt-block:nth-child(12) {
+        transform: translateX(-176vw) translateY(20vw) translateZ(48vw);
+    }
+    .dirt-block:nth-child(13) {
+        transform: translateX(-176vw) translateY(20vw) translateZ(80vw);
+    }
+    .dirt-block:nth-child(14) {
+        transform: translateX(144vw) translateY(20vw) translateZ(-176vw);
+    }
+}
+.grass-block > div,
+.dirt-block > div {
+    transform-origin: bottom right;
+    top: -2vh;
+    left: -2vh;
+    height: 2vh;
+    width: 2vh;
+}
+.grass-block > div:nth-child(1),
+.dirt-block > div:nth-child(1) {
+    transform: rotateY(-90deg) translateX(-16vh) translateY(-16vh) translateZ(16vh);
+}
+.grass-block > div:nth-child(2),
+.dirt-block > div:nth-child(2) {
+    transform: translateX(-16vh) translateY(-16vh) translateZ(16vh);
+}
+.grass-block > div:nth-child(3),
+.dirt-block > div:nth-child(3) {
+    transform: rotateY(90deg) translateX(-16vh) translateY(-16vh) translateZ(16vh);
+}
+.grass-block > div:nth-child(4),
+.dirt-block > div:nth-child(4) {
+    transform: rotateY(180deg) translateX(-16vh) translateY(-16vh) translateZ(16vh);
+}
+.grass-block > div:nth-child(5),
+.dirt-block > div:nth-child(5) {
+    transform: rotateX(-90deg) translateX(-16vh) translateY(-16vh) translateZ(-16vh);
+}
+@media screen and (orientation: portrait) {
+    .grass-block > div,
+    .dirt-block > div {
+        top: -2vw;
+        left: -2vw;
+        height: 2vw;
+        width: 2vw;
+    }
+    .grass-block > div:nth-child(1),
+    .dirt-block > div:nth-child(1) {
+        transform: rotateY(-90deg) translateX(-16vw) translateY(-16vw) translateZ(16vw);
+    }
+    .grass-block > div:nth-child(2),
+    .dirt-block > div:nth-child(2) {
+        transform: translateX(-16vw) translateY(-16vw) translateZ(16vw);
+    }
+    .grass-block > div:nth-child(3),
+    .dirt-block > div:nth-child(3) {
+        transform: rotateY(90deg) translateX(-16vw) translateY(-16vw) translateZ(16vw);
+    }
+    .grass-block > div:nth-child(4),
+    .dirt-block > div:nth-child(4) {
+        transform: rotateY(180deg) translateX(-16vw) translateY(-16vw) translateZ(16vw);
+    }
+    .grass-block > div:nth-child(5),
+    .dirt-block > div:nth-child(5) {
+        transform: rotateX(-90deg) translateX(-16vw) translateY(-16vw) translateZ(-16vw);
+    }
+}
+.credit {
+    display: none;
+    position: absolute;
+    z-index: 1;
+    right: 20px;
+    bottom: 20px;
+}
+.credit .r-1 {
+    width: 0.5vh;
+}
+@media screen and (orientation: portrait) {
+    .credit .r-1 {
+        width: 0.5vw;
+    }
+}
+.credit .r-2 {
+    width: 1vh;
+}
+@media screen and (orientation: portrait) {
+    .credit .r-2 {
+        width: 1vw;
+    }
+}
+.credit .r-3 {
+    width: 1.5vh;
+}
+@media screen and (orientation: portrait) {
+    .credit .r-3 {
+        width: 1.5vw;
+    }
+}
+.credit .r-4 {
+    width: 2vh;
+}
+@media screen and (orientation: portrait) {
+    .credit .r-4 {
+        width: 2vw;
+    }
+}
+.credit .r-5 {
+    width: 2.5vh;
+}
+@media screen and (orientation: portrait) {
+    .credit .r-5 {
+        width: 2.5vw;
+    }
+}
+.credit .r-6 {
+    width: 3vh;
+}
+@media screen and (orientation: portrait) {
+    .credit .r-6 {
+        width: 3vw;
+    }
+}
+.credit > div {
+    display: flex;
+}
+.credit > div > div {
+    height: 0.5vh;
+}
+@media screen and (orientation: portrait) {
+    .credit > div > div {
+        height: 0.5vw;
+    }
+}
+.stage {
+    top: 50%;
+    left: 50%;
+    animation: camera 20s linear infinite;
+}
+@media screen and (orientation: portrait) {
+    .stage {
+        animation: camera_p 20s linear infinite;
+    }
+}
+@keyframes camera {
+    0% {
+        transform: rotateX(-90deg) translateY(-32vh) rotateZ(0);
+    }
+    50% {
+        transform: rotateX(-130deg) translateY(-32vh) rotateZ(180deg);
+    }
+    100% {
+        transform: rotateX(-90deg) translateY(-32vh) rotateZ(360deg);
+    }
+}
+@keyframes camera_p {
+    0% {
+        transform: rotateX(-90deg) translateY(-32vw) rotateZ(0);
+    }
+    50% {
+        transform: rotateX(-130deg) translateY(-32vw) rotateZ(180deg);
+    }
+    100% {
+        transform: rotateX(-90deg) translateY(-32vw) rotateZ(360deg);
+    }
+}
+body {
+    perspective: 192vh;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    box-shadow: inset 0 0 100vw 10vw rgba(0, 0, 150, 0.6);
+    background-color: lightblue;
+}
+body div {
+    transform-style: preserve-3d;
+    position: absolute;
+}
+@media screen and (orientation: portrait) {
+    body {
+        perspective: 192vw;
+    }
+}

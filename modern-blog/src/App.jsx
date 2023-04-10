@@ -9,8 +9,8 @@ function App() {
                 <div className="blog-part is-menu">
                     <a href="#" className="blog-menu">
                         Work
-                        <svg fill="none" stroke="currentColor" stroke-width=".7" stroke-linecap="round"
-                             stroke-linejoin="round" className="feather feather-arrow-up-right" viewBox="0 0 24 24">
+                        <svg fill="none" stroke="currentColor" strokeWidth=".7" strokeLinecap="round"
+                             strokeLinejoin="round" className="feather feather-arrow-up-right" viewBox="0 0 24 24">
                             <path d="M7 17L17 7M7 7h10v10"/>
                         </svg>
                     </a>
@@ -48,7 +48,7 @@ function App() {
                                     lyrics and the album's unconventional</p>
                                 <a href="#">
                                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor"
-                                         stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                                         strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"
                                          className="feather feather-corner-down-right" viewBox="0 0 24 24">
                                         <path d="M15 10l5 5-5 5"/>
                                         <path d="M4 4v7a4 4 0 004 4h12"/>
@@ -75,7 +75,7 @@ function App() {
                                     lyrics and the album's unconventional</p>
                                 <a href="#">
                                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor"
-                                         stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                                         strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"
                                          className="feather feather-corner-down-right" viewBox="0 0 24 24">
                                         <path d="M15 10l5 5-5 5"/>
                                         <path d="M4 4v7a4 4 0 004 4h12"/>
@@ -102,7 +102,7 @@ function App() {
                                     introspective lyrics and the album's</p>
                                 <a href="#">
                                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor"
-                                         stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                                         strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"
                                          className="feather feather-corner-down-right" viewBox="0 0 24 24">
                                         <path d="M15 10l5 5-5 5"/>
                                         <path d="M4 4v7a4 4 0 004 4h12"/>
